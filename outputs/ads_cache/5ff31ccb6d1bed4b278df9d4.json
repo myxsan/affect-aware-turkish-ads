@@ -1,0 +1,12 @@
+{
+  "ad_text": "DiziKulesi'nde reklamsız keyif, her hafta yeni bölümlerle güncellenen geniş Türkçe dizi arşivi seni bekliyor, yalnızca 79 TL'ye aylık abonelikle dizi tutkunu ol!",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 2.9,
+    "key": "5ff31ccb6d1bed4b278df9d4"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır.\n\nÜRÜN:\nİsim: DiziKulesi\nAçıklama: Türkçe ve dünya dizilerini reklamsız sunan bir video akış platformu.\nÖne çıkan özellikler: Türkçe yapımlar, reklamsız izleme, haftalık yeni bölümler\nFiyat: aylık 79 TL\n\nREKLAM METNİ:"
+}

@@ -1,0 +1,12 @@
+{
+  "ad_text": "Günün stresini ve öfkesini atmak için Sakinlik+ mobil uygulamasını deneyin, 5 dakika meditasyonlarla ruhunuzu dinlendirin ve günlük duygu günlüğünüzle duygularınızı takip edin, ücretsiz olarak başlayın veya Premium üyelikle sakin bir uyku için uyku seslerine erişin.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 0.977,
+    "key": "823e11539463501c8c85e5a6"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %17 mutlu, %17 üzgün, %0 korkulu, %0 şaşkın.\nSıkça geçen içerik terimleri: gösteriyor, geldiğinde, ağrı, özeti, günlük, nice.\nÖrnek paylaşımları:\n  - \"gösteriyor kafayı yiyeceğim\"\n  - \"internet aldım aksam gitmiş delireceğim saçmalık\"\n  - \"gün kötü güne uyanıyoruz ülkede\"\n\nÜRÜN:\nİsim: Sakinlik+\nAçıklama: Türkçe nefes egzersizleri, kısa meditasyonlar ve günlük duygu takibi sunan bir mobil uygulama.\nÖne çıkan özellikler: 5 dk meditasyonlar, uyku sesleri, günlük duygu günlüğü\nFiyat: ücretsiz / Premium 49 TL/ay\n\nREKLAM METNİ:"
+}

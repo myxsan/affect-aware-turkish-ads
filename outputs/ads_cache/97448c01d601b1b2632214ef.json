@@ -1,0 +1,7 @@
+{
+  "ad_text": "{\n  \"A\":{\n      \"personalization\":2,\n      \"naturalness\":4,\n      \"product_clarity\":5,\n      \"creep_factor\":5,\n      \"reasoning\":\"Kullanıcının üzgün duygu durumuna hitap etmemesi ve genel bir reklam tonu kullanması\"\n   },\n   \"B\":{\n      \"personalization\":1,\n      \"naturalness\":4,\n      \"product_clarity\":5,\n      \"creep_factor\":5,\n      \"reasoning\":\"Kullanıcının duygusal durumuna hiç değinmemesi ve sadece ürün özelliklerine odaklanması\"\n   },\n   \"C\":{\n      \"personalization\":4,\n      \"naturalness\":5,\n      \"product_clarity\":5,\n      \"creep_factor\":2,\n      \"reasoning\":\"Kullanıcının üzgün duygu durumuna hitap etmesi ve stresini unutturabilecek bir çözüm olarak LezzetKapım'ı önermesi\"\n   }\n}",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile"
+  }
+}

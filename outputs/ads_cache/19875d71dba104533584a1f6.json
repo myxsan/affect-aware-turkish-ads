@@ -1,0 +1,7 @@
+{
+  "ad_text": "{\n  \"A\": {\n      \"personalization\": 2,\n      \"naturalness\": 4,\n      \"product_clarity\": 5,\n      \"creep_factor\": 5,\n      \"reasoning\": \"Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının korkulu duygu durumuna özel bir hitap içermemektedir.\"\n   },\n   \"B\": {\n      \"personalization\": 3,\n      \"naturalness\": 5,\n      \"product_clarity\": 5,\n      \"creep_factor\": 5,\n      \"reasoning\": \"Reklam metni hem ürünün özelliklerini net bir şekilde açıklamakta hem de doğal bir dil kullanmaktadır ancak kullanıcının korkulu duygu durumuna özel bir çözüm önermemektedir.\"\n   },\n   \"C\": {\n      \"personalization\": 4,\n      \"naturalness\": 4,\n      \"product_clarity\": 4,\n      \"creep_factor\": 2,\n      \"reasoning\": \"Reklam metni kullanıcının korkulu duygu durumuna hitap etmekte ve kaygılardan kurtulmayı vaat etmektedir ancak ürünün özelliklerini diğer reklamlar kadar net bir şekilde açıklamamaktadır.\"\n   }\n}",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile"
+  }
+}

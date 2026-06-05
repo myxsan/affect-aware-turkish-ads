@@ -1,0 +1,12 @@
+{
+  "ad_text": "Evde güvende olmak için EvGözcü'nü tercih edin, 1080p gece görüşü ve anlık hareket uyarısı ile her anı kontrol altında tutun, böylece korkularınızın yerini huzur bulur, basit kurulum ile hemen kullanmaya başlayın, sadece 899 TL.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 3.053,
+    "key": "4c938a45293e64a79f314623"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 üzgün, %8 mutlu, %8 şaşkın, %0 öfkeli.\nSıkça geçen içerik terimleri: korkuyorum, mıdır, gram, kısalmış, ezhel, bitirmeye.\nÖrnek paylaşımları:\n  - \"korktum biliyor\"\n  - \"spordan geldiğimde boyum kısalmış mıdır korkuyorum amk\"\n  - \"şaşırdım kaldım bilmem nemsin\"\n\nÜRÜN:\nİsim: EvGözcü\nAçıklama: Telefondan canlı izleme, hareket bildirimi ve gece görüşü özellikli bir akıllı ev güvenlik kamerası.\nÖne çıkan özellikler: 1080p gece görüşü, anlık hareket uyarısı, kolay kurulum\nFiyat: tek kamera 899 TL\n\nREKLAM METNİ:"
+}

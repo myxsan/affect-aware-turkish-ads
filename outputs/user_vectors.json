@@ -1,0 +1,2602 @@
+[
+  {
+    "user_id": "u00",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.41648852825164795,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.3332282602787018,
+      "fear": 0.24998249113559723,
+      "happy": 0.00016239694377873093,
+      "surprise": 0.41648852825164795,
+      "sad": 0.00013831820979248732
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 4,
+      "fear": 3,
+      "happy": 0,
+      "surprise": 5,
+      "sad": 0
+    },
+    "top_keywords": [
+      "şaşkına",
+      "döndüm",
+      "lan",
+      "korkunç",
+      "şok",
+      "sela"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "şeffaf adam gördüm şaşkına döndüm dünyanın şeffaf insanı sanıyordum şok",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.999369204044342
+      },
+      {
+        "text": "hava soğudu kaloriferleri kapattılar yurt delireceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994341731071472
+      },
+      {
+        "text": "beyin hücresini taneyle verdiler lan olmaz lan nefret ediyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993910789489746
+      },
+      {
+        "text": "bekliyordum bilmiyorum nesil diyarbakırlı çıktım şaşkınım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.999345600605011
+      },
+      {
+        "text": "çamlıca televizyon radyo kulesi inşaatında korkunç ölüm metre yükseklikten aşağıya düştü",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9992769360542297
+      },
+      {
+        "text": "sela sesiyle uyanmak ürkütücü yok",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993384480476379
+      },
+      {
+        "text": "acı çeken birisinin intihar rüyada korkunç kabus gören kişinin aniden uyanmasına benzer",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993172883987427
+      },
+      {
+        "text": "gideceğim yere yürüyen merdivenle gitmek istiyorum üşengeç öfkeliyim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993528723716736
+      },
+      {
+        "text": "şaşırtamaz derken ıspanaklı pidenin mükemmel olmasıyla şaşkına döndüm",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994789958000183
+      },
+      {
+        "text": "kaptana kızgınım insan çağırır",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993643164634705
+      },
+      {
+        "text": "sınav neydi arkadaş soruyor soru nasıldı sınavda soruda varmış şok iptal",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994564652442932
+      },
+      {
+        "text": "gördüğüm kadarıyla kışın gelmesini beklemiyordu büyük sürpriz oldu",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992899894714355
+      }
+    ]
+  },
+  {
+    "user_id": "u01",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.3331835865974426,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.3331835865974426,
+      "fear": 0.16688774526119232,
+      "happy": 0.24989177286624908,
+      "surprise": 0.1667124181985855,
+      "sad": 0.0833243727684021
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 4,
+      "fear": 2,
+      "happy": 3,
+      "surprise": 2,
+      "sad": 1
+    },
+    "top_keywords": [
+      "yerlere",
+      "yollar",
+      "yağdığında",
+      "taraftarı",
+      "pizza",
+      "oğlumu"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "gel gör kötüyüm bugün sesime ses değse çığlık",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9982542395591736
+      },
+      {
+        "text": "dünya pizza günü’nüz kutlu",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9986327290534973
+      },
+      {
+        "text": "soyisimlerinizi kullanarak yerlere gelmenize aşırı kızgınım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993419051170349
+      },
+      {
+        "text": "balerin olmanın avantajları sanırım kızın ayağı incinmedi hayret ettim",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994974136352539
+      },
+      {
+        "text": "bursa taraftarı tekbir getiriyor kesecekler besiktaslilari eğlendim",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999244213104248
+      },
+      {
+        "text": "sırf inat egonuz yüzünden küfürler",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993171691894531
+      },
+      {
+        "text": "eşinin yanında bakıyorsun hadsiz bağırmak istemek",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.998609185218811
+      },
+      {
+        "text": "site toplantısına oğlumu yolladım sinir küpü olmuş geldi",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.999371349811554
+      },
+      {
+        "text": "kar yağdığında yollar buz tutuyor kaza yapmaktan korkuyorum korku filmi yol",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994078874588013
+      },
+      {
+        "text": "öldün kaldın endişelendim kanki",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994046688079834
+      },
+      {
+        "text": "annesi sarı saçlı mavi gözlü bebekle ilgilenmemi istedi mutluyum an",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992908239364624
+      },
+      {
+        "text": "esas hacamatçıların meslek örgütü olmasına şaşkınım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994592070579529
+      }
+    ]
+  },
+  {
+    "user_id": "u02",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.33320775628089905,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08342679589986801,
+      "fear": 0.25003883242607117,
+      "happy": 0.3331364095211029,
+      "surprise": 0.33320775628089905,
+      "sad": 0.00019020283070858568
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 3,
+      "happy": 4,
+      "surprise": 4,
+      "sad": 0
+    },
+    "top_keywords": [
+      "yeni",
+      "sene",
+      "allah",
+      "irkildim",
+      "sürpriz",
+      "güzel"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "bankanın müşteri temsilcisinin allah belasını versin kudurdum sinirden bak",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992840886116028
+      },
+      {
+        "text": "allah’ımm mutluyum gün güzel şükredebilirim",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990994930267334
+      },
+      {
+        "text": "içim geçmişti uyuyordum tweet bildirimine irkildim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999380350112915
+      },
+      {
+        "text": "bugün twitterla yıldönümümüzmüş unutur sanmıştım sürpriz yaptı şapşal",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.999281108379364
+      },
+      {
+        "text": "saatte pat kalktım şoka uğradım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993315935134888
+      },
+      {
+        "text": "sene içerisinde ikinci kitap sene sabırla beklediğim zamanları hatırlayınca gerçekten güzel sürpriz oldu",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9991145730018616
+      },
+      {
+        "text": "feyza aşktır seviyoruz",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991204142570496
+      },
+      {
+        "text": "yeni yeni yeni kutlu",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9989305138587952
+      },
+      {
+        "text": "forma numarasını görünce istemsizce irkildim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993492960929871
+      },
+      {
+        "text": "kilo aldığıma sevindim",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992579817771912
+      },
+      {
+        "text": "vay taeyang gelin oldun gidiyorsun",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994981288909912
+      },
+      {
+        "text": "ayakta gittiğim dolmuşta şoför emniyet kemerini takmamış endişelendim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994243383407593
+      }
+    ]
+  },
+  {
+    "user_id": "u03",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.2501453757286072,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.2501276731491089,
+      "fear": 0.2501453757286072,
+      "happy": 0.08356237411499023,
+      "surprise": 0.16635924577713013,
+      "sad": 0.24980528652668
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 3,
+      "fear": 3,
+      "happy": 1,
+      "surprise": 2,
+      "sad": 3
+    },
+    "top_keywords": [
+      "hain",
+      "buz",
+      "risk",
+      "yollar",
+      "korkmadım",
+      "gelmedi"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "ağzımın tadı bozuk aralar ağlayasım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991030693054199
+      },
+      {
+        "text": "umarım gözlüğüm gelmiştir özledim",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9980577826499939
+      },
+      {
+        "text": "türkiye küfürler inliyor an şerefsizler hain sürüsü",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9978817105293274
+      },
+      {
+        "text": "aslan’ım attın kaçırıyorsun hayret",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994446635246277
+      },
+      {
+        "text": "renge dönsem yüzümü hüzün",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9988779425621033
+      },
+      {
+        "text": "hürrem hain kadın gelmedi kainata bak aklıma geldi sinirlendim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.999396562576294
+      },
+      {
+        "text": "yok saçma yazılarını bugünkü mağlubiyete bağlıyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9955694079399109
+      },
+      {
+        "text": "ilgilendirmiyor eğlendim başlamadan bitti karşılama haha",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992604851722717
+      },
+      {
+        "text": "müzik kutusu fobim korkunç geliyorlar",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993314743041992
+      },
+      {
+        "text": "risk almaktan korkmadım sevdiklerimi üzerim ödüm koptu",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993835687637329
+      },
+      {
+        "text": "tanrım kafayı yemek üzereyim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994311928749084
+      },
+      {
+        "text": "kar yağdığında yollar buz tutuyor araba sürmenin buz pateniyle kaymaktan farkı kalmıyor kaza yapacam korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993908405303955
+      }
+    ]
+  },
+  {
+    "user_id": "u04",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.41653287410736084,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.2499506026506424,
+      "fear": 0.41653287410736084,
+      "happy": 0.0002374867326579988,
+      "surprise": 0.08339471369981766,
+      "sad": 0.24988432228565216
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 3,
+      "fear": 5,
+      "happy": 0,
+      "surprise": 1,
+      "sad": 3
+    },
+    "top_keywords": [
+      "kalmaktan",
+      "verici",
+      "yaşayamadığım",
+      "üzerimden",
+      "uslu",
+      "kuzenim"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "derin stalk yaptım hüzünlüyüm",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990549683570862
+      },
+      {
+        "text": "sensizlikten ödüm koptu yapmam uslu dururum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993151426315308
+      },
+      {
+        "text": "seninle yaşamak isteyipte yaşayamadığım hayata kızgınım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993922710418701
+      },
+      {
+        "text": "dakikadır aralıksız sövüyorum asalaklar vergimizden maaş alıyor",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993796348571777
+      },
+      {
+        "text": "dünyanın yalnızlık verici korkutucu hissi sesini duyuramama hissidir",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993458390235901
+      },
+      {
+        "text": "ağız şapırdatmak sinir bozucu yoktur",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9991912245750427
+      },
+      {
+        "text": "sefer yarım kalmaktan değilde düştüğüm yerde kalmaktan korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993939399719238
+      },
+      {
+        "text": "mutsuzum heidinin pislik claranın evinde hapsolduğu bölümleri izleyip ağlıyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991425275802612
+      },
+      {
+        "text": "kanada yemendeki kötüye giden durum endişe verici",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9992597699165344
+      },
+      {
+        "text": "kuzenim taylor kısa saçlı doğmuş bence dedi dondum kaldım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994409680366516
+      },
+      {
+        "text": "otobüs kartım çekmeye başladı öğrenci değilim resmen kabus",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999319314956665
+      },
+      {
+        "text": "yorgunum üzerimden fil geçmiş hissediyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989873766899109
+      }
+    ]
+  },
+  {
+    "user_id": "u05",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662700772285461,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.6662700772285461,
+      "fear": 0.0004193182976450771,
+      "happy": 0.16667039692401886,
+      "surprise": 0.00014883697440382093,
+      "sad": 0.1664912849664688
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 8,
+      "fear": 0,
+      "happy": 2,
+      "surprise": 0,
+      "sad": 2
+    },
+    "top_keywords": [
+      "gösteriyor",
+      "geldiğinde",
+      "ağrı",
+      "özeti",
+      "günlük",
+      "nice"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "an öfkeliyim sinirimi yatıştıracak yapmam lazım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993842840194702
+      },
+      {
+        "text": "ay yemin ediyorum başıma ağrı girdi sinirden köpürdüm annenin çaresizliğini görünce",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9991080164909363
+      },
+      {
+        "text": "aklıma geldiğinde küfürler ettiklerim napıyolar yaşıyorlar",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992074370384216
+      },
+      {
+        "text": "doğum günün kutlu nice senelere",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990966320037842
+      },
+      {
+        "text": "günlük tatilimi ayaşta geçircem eğlenceli",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990326166152954
+      },
+      {
+        "text": "internet aldım aksam gitmiş delireceğim saçmalık",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994298815727234
+      },
+      {
+        "text": "hoca bitir özeti bitir fazla bekleyemiyorum çıldıracağım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993459582328796
+      },
+      {
+        "text": "kaderimiz mutsuz olmaktı",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989138841629028
+      },
+      {
+        "text": "susarak asil illa küfür edeceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994223117828369
+      },
+      {
+        "text": "baş ağrısı ders çalışmama engel yüzden agresifim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9988191723823547
+      },
+      {
+        "text": "gösteriyor kafayı yiyeceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994623064994812
+      },
+      {
+        "text": "gün kötü güne uyanıyoruz ülkede",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9975911378860474
+      }
+    ]
+  },
+  {
+    "user_id": "u06",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662785410881042,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.6662785410881042,
+      "fear": 0.0002639353333506733,
+      "happy": 0.08343818038702011,
+      "surprise": 0.00015986771904863417,
+      "sad": 0.24985946714878082
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 8,
+      "fear": 0,
+      "happy": 1,
+      "surprise": 0,
+      "sad": 3
+    },
+    "top_keywords": [
+      "sinir",
+      "sorduğumda",
+      "paylaşmayın",
+      "istemeyen",
+      "koyup",
+      "maaş"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "medenicinin dersindeki ses kaydını dinliyorum adam yavaş konuşuyor vallahi kafayı koyup uyucam kızgınım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994246959686279
+      },
+      {
+        "text": "uykumu almadığım kendimi agresif hissediyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9989834427833557
+      },
+      {
+        "text": "sabaha küfür edeceğim okumak istemeyen takipten çıksın",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994006156921387
+      },
+      {
+        "text": "hesaplamalarıma düzenli sporu bıraktığımdan mutsuzum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990496039390564
+      },
+      {
+        "text": "dakikadır aralıksız sövüyorum asalaklar vergimizden maaş alıyor",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993796348571777
+      },
+      {
+        "text": "emeğe saygı göstermek zor olmamalı paylaşmayın izle filmini defol git",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9990490078926086
+      },
+      {
+        "text": "vizeler bitti bende bittim tükendim yeminle",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990270137786865
+      },
+      {
+        "text": "mesaj bekliyorum ay çıldıracağım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993062019348145
+      },
+      {
+        "text": "cahil beyinliler bilmişlik yapıyor sinir oluyorum abi",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994727969169617
+      },
+      {
+        "text": "günaydın sevmesini bilen guzel insanlar",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991424083709717
+      },
+      {
+        "text": "sinir küpüyüm bulaşanın canını fena yakarım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994798302650452
+      },
+      {
+        "text": "kredi kartının kullanma tarihini sorduğumda kullandım diyen annemi üzdüğüm günler pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991360306739807
+      }
+    ]
+  },
+  {
+    "user_id": "u07",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6661973595619202,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.6661973595619202,
+      "fear": 0.0835559293627739,
+      "happy": 0.08346141129732132,
+      "surprise": 0.08343645185232162,
+      "sad": 0.08334890753030777
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 8,
+      "fear": 1,
+      "happy": 1,
+      "surprise": 1,
+      "sad": 1
+    },
+    "top_keywords": [
+      "aaa",
+      "nefret",
+      "çıkamıyorum",
+      "üniversitede",
+      "sahne",
+      "malı"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "hayatımdan defol git gayri haykırmak istiyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9985992312431335
+      },
+      {
+        "text": "aaa yediği gol iptal edilmiş şaşırdım aaa inanamıyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994730353355408
+      },
+      {
+        "text": "leonspiro sahnesinin etkisinden çıkamıyorum içimi hüzün kapladı abv sahne hüzünlü değildi oldu",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9986311793327332
+      },
+      {
+        "text": "tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994763731956482
+      },
+      {
+        "text": "batuhanla spor yapıcaz korkuyorum tayt giydi",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999387264251709
+      },
+      {
+        "text": "uykumu getirsin küfür edeceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993175268173218
+      },
+      {
+        "text": "yahu rakamındaki sır kafayı yiyeceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.999377429485321
+      },
+      {
+        "text": "güldüm yüzüm kasıldı",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9993008375167847
+      },
+      {
+        "text": "sinirlenince cümle kuramamaktan nefret ediyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994376301765442
+      },
+      {
+        "text": "sinirleniyorum lanet üniversitede karar mantıklı",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994133710861206
+      },
+      {
+        "text": "ellerim soyuluyor dedi deri değiştiriyorsun normaldir sizde dedim sanırım nefret ediyor",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9987792372703552
+      },
+      {
+        "text": "kızgınım kişilere an sıfırlar",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994369149208069
+      }
+    ]
+  },
+  {
+    "user_id": "u08",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662639379501343,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.6662639379501343,
+      "fear": 0.08355087041854858,
+      "happy": 0.00015956493734847754,
+      "surprise": 0.16667114198207855,
+      "sad": 0.08335444331169128
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 8,
+      "fear": 1,
+      "happy": 0,
+      "surprise": 2,
+      "sad": 1
+    },
+    "top_keywords": [
+      "nefes",
+      "kötü",
+      "delireceğim",
+      "kafayı",
+      "olayını",
+      "yaa"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "muslera formuyla oldukça kızgınım kötü senedir kötü",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994097948074341
+      },
+      {
+        "text": "gözümü kapıyorum an geliyor allahım korkunçtu",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993901252746582
+      },
+      {
+        "text": "merhaba yazınca hesabının kilitlenmesi olayını dmden birilerini düşürmek uyduruyorsunuz sanıyordum gerçekmiş şoktayım an",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994636178016663
+      },
+      {
+        "text": "dünya üzerinde nefes sinir oluyorum an hayvanlar hariç",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994352459907532
+      },
+      {
+        "text": "ayşe banu doğumluydu kız delireceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993519186973572
+      },
+      {
+        "text": "nefes alamıyorsam bunaldım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9988265633583069
+      },
+      {
+        "text": "kafayı yastığa koyduğu uyuyan tiplerden nefret ediyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993855953216553
+      },
+      {
+        "text": "çıldıracağım kafayı yiyeceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994269609451294
+      },
+      {
+        "text": "şakadır kesin yok inanmam ayrıldınız yaa",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992901086807251
+      },
+      {
+        "text": "geri geldim olmadığım agresifim yenilendim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993500113487244
+      },
+      {
+        "text": "kedim kızgınlığa girdi ulusa seslenir miyavlıyo yeter delireceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994847774505615
+      },
+      {
+        "text": "kasıtlı özürle düzeltilemez defol ülkemden",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9986988306045532
+      }
+    ]
+  },
+  {
+    "user_id": "u09",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6665952801704407,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.0001689373020781204,
+      "fear": 0.6665952801704407,
+      "happy": 0.08358681201934814,
+      "surprise": 0.08341830223798752,
+      "sad": 0.1662306934595108
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 0,
+      "fear": 8,
+      "happy": 1,
+      "surprise": 1,
+      "sad": 2
+    },
+    "top_keywords": [
+      "korkuyorum",
+      "mıdır",
+      "gram",
+      "kısalmış",
+      "ezhel",
+      "bitirmeye"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "şaşırdım kaldım bilmem nemsin",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994500279426575
+      },
+      {
+        "text": "alttan derslerimi sabahın körüne koyan sisteme kırgınım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990983009338379
+      },
+      {
+        "text": "okulu bitirmeye gram umudum kalmadı",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9936485886573792
+      },
+      {
+        "text": "arkadaşlar bugün mutluyum sizlerle paylaşmak istedim mutluluk paylaştıkça çoğalır sizde paylaşın çoğalsın",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992615580558777
+      },
+      {
+        "text": "konağa gitsin bence olacak korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993890523910522
+      },
+      {
+        "text": "yanlışlıkla ezhel şarkısı ezberliyiyeceğim korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994033575057983
+      },
+      {
+        "text": "gördüğüm kabus yüzünden gece uyumadım",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993488192558289
+      },
+      {
+        "text": "finali okuyunca bi irkildim kaldı",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993873834609985
+      },
+      {
+        "text": "kerkükte büyük facia ölü yaralı",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.998689591884613
+      },
+      {
+        "text": "spordan geldiğimde boyum kısalmış mıdır korkuyorum amk",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994106292724609
+      },
+      {
+        "text": "marcele stajyer muamelesi yapılacağından endişeliyim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999382734298706
+      },
+      {
+        "text": "korktum biliyor",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994338154792786
+      }
+    ]
+  },
+  {
+    "user_id": "u10",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6662679314613342,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08343258500099182,
+      "fear": 0.6662679314613342,
+      "happy": 0.00019640999380499125,
+      "surprise": 0.16668973863124847,
+      "sad": 0.08341336995363235
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 8,
+      "happy": 0,
+      "surprise": 2,
+      "sad": 1
+    },
+    "top_keywords": [
+      "ara",
+      "koptu",
+      "ödüm",
+      "kabus",
+      "bugün",
+      "oynarken"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "kanadada helikopter düştü ölü",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9987672567367554
+      },
+      {
+        "text": "uzun süren aralar endişe verici",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993276596069336
+      },
+      {
+        "text": "nehir okyanus yüzeyi bulanık derinlerinde ürkütücü duruluk mevcut",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993841648101807
+      },
+      {
+        "text": "korkutucu geliyor alışamadım fikre alışmak istiyor muyum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993174076080322
+      },
+      {
+        "text": "ara ara kendime harbi sarı saçlıyım ha hayret ediyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994668364524841
+      },
+      {
+        "text": "candy crush oynarken zamanı ileri aldığımda aramış ödüm koptu",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993863105773926
+      },
+      {
+        "text": "garip canım yanıyor moralim bozuk",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990062117576599
+      },
+      {
+        "text": "evlatlarım güncelleme yapıyor bugün kral şaştım kaldım vallahi",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9995154142379761
+      },
+      {
+        "text": "kabus branşlarda yenilmişiz",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993539452552795
+      },
+      {
+        "text": "korkutan insan yapmışlar allah canımı almasın ödüm koptu",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999417781829834
+      },
+      {
+        "text": "agresifim kesin birini tekmeleyeceğim bugün",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992504715919495
+      },
+      {
+        "text": "parazitlerden korktum inş kabus görmem amin",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994176626205444
+      }
+    ]
+  },
+  {
+    "user_id": "u11",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6663019061088562,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08343108743429184,
+      "fear": 0.6663019061088562,
+      "happy": 0.00022969765996094793,
+      "surprise": 0.1666094809770584,
+      "sad": 0.08342782407999039
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 8,
+      "happy": 0,
+      "surprise": 2,
+      "sad": 1
+    },
+    "top_keywords": [
+      "korkuyorum",
+      "yüzünden",
+      "herşey",
+      "vallahi",
+      "ediyorum",
+      "sürpriz"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "gece robot olduğuma dair bi kabus gördüm korktum annemin yanına gittim onla uyudum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994398951530457
+      },
+      {
+        "text": "kuraklıktan balıkesir’de badem fidanları çiçek açtı çiftçi endişeli",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9991728663444519
+      },
+      {
+        "text": "uzaklardan feryat ediyorum çamurlandım kirlendim yıprandım manasız herşey herşey anlamsız",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989294409751892
+      },
+      {
+        "text": "yht business bilet alarak kendime ufak bi sürpriz yaptım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9991563558578491
+      },
+      {
+        "text": "endişe yüklü hayatlarımız",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9991076588630676
+      },
+      {
+        "text": "tarz sessiz sakin havalardan nedense korkuyorum fırtına öncesi sessizlik",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994271993637085
+      },
+      {
+        "text": "teşekkür ediyorum güzel sürpriz oldu iyiki varsınız",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9991890788078308
+      },
+      {
+        "text": "balkona maket hırsız yapmışlar adam asmış sandım ödüm koptu yaptınız",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993867874145508
+      },
+      {
+        "text": "tek zeki insanlardan korkuyorum vallahi",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993932247161865
+      },
+      {
+        "text": "fotoğraf atmış soğursun yazmış gerizekalı insanın tipi yüzünden hareketler yüzünden soğurum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992177486419678
+      },
+      {
+        "text": "bozulduğu insandan korkunç yaratık yoktur",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993141889572144
+      },
+      {
+        "text": "yağmur yağıyor vallahi acayip gök gürlüyor korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994224309921265
+      }
+    ]
+  },
+  {
+    "user_id": "u12",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6663263440132141,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08340827375650406,
+      "fear": 0.6663263440132141,
+      "happy": 0.08344881981611252,
+      "surprise": 0.08338914066553116,
+      "sad": 0.08342742174863815
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 8,
+      "happy": 1,
+      "surprise": 1,
+      "sad": 1
+    },
+    "top_keywords": [
+      "korkuyorum",
+      "sitede",
+      "okullar",
+      "sesti",
+      "instagramdan",
+      "kararı"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "korkuyorum cesaretim kayıp",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994082450866699
+      },
+      {
+        "text": "zeytin zeytinli poğaça tükettim şaşkınım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994532465934753
+      },
+      {
+        "text": "bulaşık yıkadım korkunçtu an ölücem sandım",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993458390235901
+      },
+      {
+        "text": "hayaletiz hayalet hayal et düşün kork",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993997812271118
+      },
+      {
+        "text": "irkilmeyene izleme kararı almıştım ses açıkken defasında irkildim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993983507156372
+      },
+      {
+        "text": "kendimi bulmaktan korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993597865104675
+      },
+      {
+        "text": "gerizekalı insan sitede kötü atlara binip defolup gitse keşke",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992316961288452
+      },
+      {
+        "text": "instagramdan okullar açılıyor birşeyler paylaşan kişileri unfladım mutluyum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992620348930359
+      },
+      {
+        "text": "sesti ödüm koptu allahtan kimseye bişey olmamış",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994041919708252
+      },
+      {
+        "text": "gemileri yakmaya meyilliyim vapura binmeye korktum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999401330947876
+      },
+      {
+        "text": "kabustu insaf",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993669390678406
+      },
+      {
+        "text": "fena hüzünlüyüm dışarıdayım kulaklığım yok hayattaki görevim bitmiştir",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991123080253601
+      }
+    ]
+  },
+  {
+    "user_id": "u13",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6662879586219788,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.0001628029131097719,
+      "fear": 0.08349138498306274,
+      "happy": 0.6662879586219788,
+      "surprise": 0.16670863330364227,
+      "sad": 0.08334926515817642
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 0,
+      "fear": 1,
+      "happy": 8,
+      "surprise": 2,
+      "sad": 1
+    },
+    "top_keywords": [
+      "arkadaşlar",
+      "hissediyorum",
+      "güzel",
+      "çalınan",
+      "kaybetmiş",
+      "girmiş"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "özledim bilse ah bilseniz",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9981297850608826
+      },
+      {
+        "text": "neşe doluyor insan kutlu mutlu arkadaşlar",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9993016719818115
+      },
+      {
+        "text": "galiba koskoca tatilde eğlendim",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991825222969055
+      },
+      {
+        "text": "süre ayağımdan çıkmıyacak ayakkabı aldım baya mutluyum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999200165271759
+      },
+      {
+        "text": "destekleyen teşekkür ederim sıcaklıklarını hissediyorum güzel yüreğe girmiş isem kaybetmiş sayılmam",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990791082382202
+      },
+      {
+        "text": "stephan hawking gündür negatif basmamış noldu endişelendim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993778467178345
+      },
+      {
+        "text": "film eğlenceli dediler kere güldüm",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992857575416565
+      },
+      {
+        "text": "tarihi görünce şaşırdım drone boyutunu işlediğiniz akışınız",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9995129108428955
+      },
+      {
+        "text": "hayatın güzel sürpriz oldun",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993197917938232
+      },
+      {
+        "text": "sev sevmek kolay",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990052580833435
+      },
+      {
+        "text": "osmanlının puanını yediler kayseriye çalınan penaltı komik bence",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9993038177490234
+      },
+      {
+        "text": "arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9993127584457397
+      }
+    ]
+  },
+  {
+    "user_id": "u14",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6661800742149353,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.16603206098079681,
+      "fear": 0.16739852726459503,
+      "happy": 0.6661800742149353,
+      "surprise": 0.00018378732784185559,
+      "sad": 0.00020551815396174788
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 2,
+      "fear": 2,
+      "happy": 8,
+      "surprise": 0,
+      "sad": 0
+    },
+    "top_keywords": [
+      "hissediyorum",
+      "bugün",
+      "teşekkür",
+      "kendimi",
+      "ederim",
+      "harika"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "beklenen anlardan nefret ediyorum doğaçlama takılsanıza",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993307590484619
+      },
+      {
+        "text": "sonunda güzdüzsefası kitabını bitirdim inanılmaz güzeldi mükemmeldi",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9989675283432007
+      },
+      {
+        "text": "kendimi harika hissediyorum yeniden hayat doldum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992420673370361
+      },
+      {
+        "text": "rica ederim tatlım öğle tatili teşekkür ederim eşlik ettiğin seviyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992855191230774
+      },
+      {
+        "text": "banyo etmek dünyanın güzel dünya varmış",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991324543952942
+      },
+      {
+        "text": "sevgili kemal abim ellerinize sağlık teşekkür ederiz",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.998993456363678
+      },
+      {
+        "text": "rezil rüya gördüm bugün ürktüm",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994292855262756
+      },
+      {
+        "text": "dalgın dalgın yürürken ani fren sesine irkildim şöfor hemen inip hatalı söyledi özür diledi utandım",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993808269500732
+      },
+      {
+        "text": "ürün aldım gratisten güzel hissediyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992305040359497
+      },
+      {
+        "text": "bugün doğan doğum günü kutlu",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999005138874054
+      },
+      {
+        "text": "dünyaya gözlerimi açtığım gün bugün kendimi harika hissediyorum günaydınlar",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999284565448761
+      },
+      {
+        "text": "maçın özeti korkak hoca maçı verdi defol git rıza",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9915516376495361
+      }
+    ]
+  },
+  {
+    "user_id": "u15",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.660822331905365,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.000590072653722018,
+      "fear": 0.08518413454294205,
+      "happy": 0.660822331905365,
+      "surprise": 0.25002187490463257,
+      "sad": 0.0033816397190093994
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 0,
+      "fear": 1,
+      "happy": 8,
+      "surprise": 3,
+      "sad": 0
+    },
+    "top_keywords": [
+      "mutluyum",
+      "haha",
+      "eğlendim",
+      "yılların",
+      "mesajı",
+      "günüydü"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "ilgilendirmiyor eğlendim başlamadan bitti karşılama haha",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992604851722717
+      },
+      {
+        "text": "inançlı olsaydım çilekten aldığım haz günaha girerdi derece haha",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9353388547897339
+      },
+      {
+        "text": "galerimi temizlemem yarım saatimi aldı mutluyum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992170333862305
+      },
+      {
+        "text": "fineas förb izliyordum kliplerinin top listesini verdiler eğlendim mutluyum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992961883544922
+      },
+      {
+        "text": "yok inanmam büyük konuşmayayım çocuğuma vursa yakalar parmaklarını satırla keserdim",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9990897178649902
+      },
+      {
+        "text": "hayret ediyorum anadolu cennet diyorum inanmıyorsun",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994969367980957
+      },
+      {
+        "text": "sevimli doğum günü mesajı teşekkürler",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9990893602371216
+      },
+      {
+        "text": "kubilay tüfekçi podyum sürpriz oldu",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992876648902893
+      },
+      {
+        "text": "sınav yaklaşıyor ders çalışmam lazım korkuyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993688464164734
+      },
+      {
+        "text": "yarın stajım yok mutluyum mutlulukla anaokuluna gitmesem düşünüyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992389678955078
+      },
+      {
+        "text": "uludağ’a aşık oldum bence boş",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9989853501319885
+      },
+      {
+        "text": "yılların güzel günüydü günümü güzelleştiren haftaya efsane video",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9988598823547363
+      }
+    ]
+  },
+  {
+    "user_id": "u16",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6661728024482727,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.1666090339422226,
+      "fear": 0.083598293364048,
+      "happy": 0.6661728024482727,
+      "surprise": 0.0002181086892960593,
+      "sad": 0.08340180665254593
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 2,
+      "fear": 1,
+      "happy": 8,
+      "surprise": 0,
+      "sad": 1
+    },
+    "top_keywords": [
+      "izliyorum",
+      "yaşasın",
+      "seviyorum",
+      "uyanıcam",
+      "pusat",
+      "komedi"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "aybüke pusat güzel dans etti vallahi gösterisini beğendim",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9993288516998291
+      },
+      {
+        "text": "insanlar rahat yalan söyleyebiliyor anlayamıyoruz korkunç",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993498921394348
+      },
+      {
+        "text": "yok gayet hoş tepki seviyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992519021034241
+      },
+      {
+        "text": "indirimlerini bekleyen canım kankalarım yaşasın indirim yaşasın",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991018772125244
+      },
+      {
+        "text": "komedi dükkanı arkadaşım hoşgeldin müdür neaptın senedir izliyorum tatlı büyülü adam",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9989733695983887
+      },
+      {
+        "text": "mutlu uyandım",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999037504196167
+      },
+      {
+        "text": "ellerim soyuluyor dedi deri değiştiriyorsun normaldir sizde dedim sanırım nefret ediyor",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9987792372703552
+      },
+      {
+        "text": "sırf orkan çınar maçı izliyorum seviyorum çocuk",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991907477378845
+      },
+      {
+        "text": "of ağzımdaki uyuşukluk geçmedi delireceğim",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9988129138946533
+      },
+      {
+        "text": "trabzonspor osmalıspor maçında gol oldu be yalnız yusuf yazıcının golü güzeldi",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9991088509559631
+      },
+      {
+        "text": "of kütahyada bunaldım ankaraya gideyim deniz havası alayım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989175796508789
+      },
+      {
+        "text": "mutluyum yarın uyanıcam dünya iptal",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992483258247375
+      }
+    ]
+  },
+  {
+    "user_id": "u17",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6663302779197693,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.16666479408740997,
+      "fear": 0.00026510065072216094,
+      "happy": 0.08337385207414627,
+      "surprise": 0.6663302779197693,
+      "sad": 0.08336589485406876
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 2,
+      "fear": 0,
+      "happy": 1,
+      "surprise": 8,
+      "sad": 1
+    },
+    "top_keywords": [
+      "merve",
+      "kaldım",
+      "şaştım",
+      "hayret",
+      "destekledim",
+      "bölümü"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "şaşırmıyorum hayret ediyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994956254959106
+      },
+      {
+        "text": "bugün yürürken inek boku gördüm kadarda bts antisine benziyor şaştım kaldım yahu",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994656443595886
+      },
+      {
+        "text": "kız merve dondum kaldım yazayım bilemedim tehlikelisin",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9990490078926086
+      },
+      {
+        "text": "sığırdan başkan gelmesi şaşırtıcı umarım başarılı",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.999445378780365
+      },
+      {
+        "text": "aaa şaştım kaldım olacak iş",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994617104530334
+      },
+      {
+        "text": "şakadır kesin yok inanmam ayrıldınız destekledim olmaz",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992695450782776
+      },
+      {
+        "text": "merve yüzünden evli birinin başkasıyla sevgili olmasını istedim tövbe kendime şaşırdım an",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994516968727112
+      },
+      {
+        "text": "inanamıyorum coğrafyadan konu bitirirken sorularını çözebiliyorum arkadaşlar hayret edici olay",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994375109672546
+      },
+      {
+        "text": "bölümü şurdan kesseydi kanal keşke vallahi sinir oluyorum daralıyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9989149570465088
+      },
+      {
+        "text": "fenerbahçe forması giyer sorusuna şeref duyarım diyen taçsız kral doğum günün kutlu",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9985594153404236
+      },
+      {
+        "text": "lisenin bitmesinin verdiği hüzün",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9983183145523071
+      },
+      {
+        "text": "pasif agresiflikten nefret ederken pasif agresif oldum hayatım baya planladığım gidiyor",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992307424545288
+      }
+    ]
+  },
+  {
+    "user_id": "u18",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6662854552268982,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08347117900848389,
+      "fear": 0.00021962460596114397,
+      "happy": 0.1668388843536377,
+      "surprise": 0.6662854552268982,
+      "sad": 0.0831848755478859
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 0,
+      "happy": 2,
+      "surprise": 8,
+      "sad": 1
+    },
+    "top_keywords": [
+      "sevgilim",
+      "aldım",
+      "öğrendiğimde",
+      "ürün",
+      "misafir",
+      "kitaplar"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "şaka yapıyorsun ciddi olamazsın sayın gevşek",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992594122886658
+      },
+      {
+        "text": "unuttum hayret ettim",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994614720344543
+      },
+      {
+        "text": "insanın yokluğunuzda mutlu olacağını bilmek mutsuz edici durum yok",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9966273903846741
+      },
+      {
+        "text": "vallahi bende sabrlı olduğumu bilmiyordum sürpriz oldu bugün anladım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994357228279114
+      },
+      {
+        "text": "aaa sevgilim gelmiş konuş sevgilim",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992237091064453
+      },
+      {
+        "text": "an şaşkınım şaşkınlığımı kıvırcık ali’nin kel öğrendiğimde yaşamıştım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9992689490318298
+      },
+      {
+        "text": "misafir gelmesinden nefret ediyorum amk",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994315505027771
+      },
+      {
+        "text": "yaş düzeyi zırvalamayı neyle izah edeceğimi şaştım savcım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993546605110168
+      },
+      {
+        "text": "ürün aldım gratisten güzel hissediyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992305040359497
+      },
+      {
+        "text": "saatte pat kalktım şoka uğradım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993315935134888
+      },
+      {
+        "text": "yeni kitaplar aldım inanılmaz mutluyum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992596507072449
+      },
+      {
+        "text": "rahatsız ediyormuşum numarayı değiştirmek inanamıyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994533658027649
+      }
+    ]
+  },
+  {
+    "user_id": "u19",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6663059592247009,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08343229442834854,
+      "fear": 0.0834624171257019,
+      "happy": 0.08340159058570862,
+      "surprise": 0.6663059592247009,
+      "sad": 0.083397775888443
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 1,
+      "happy": 1,
+      "surprise": 8,
+      "sad": 1
+    },
+    "top_keywords": [
+      "görünce",
+      "allah",
+      "ettim",
+      "hayret",
+      "malı",
+      "kaynağım"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "fark ettim bugün fotoğrafımı atmamışım hayret",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994655251502991
+      },
+      {
+        "text": "keşke insanlara kendime güvenseydim azından yarı yolda kalmazdım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989922642707825
+      },
+      {
+        "text": "hayret ettim mesaj atmana oldu allah allah",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994314312934875
+      },
+      {
+        "text": "sürpriz arkadaşlar sağ",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993724226951599
+      },
+      {
+        "text": "tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994763731956482
+      },
+      {
+        "text": "aaa şaşırdım aklından sildin zannediyordum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994263648986816
+      },
+      {
+        "text": "şaka di inanamıyorum",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993707537651062
+      },
+      {
+        "text": "yemeğini yemeyip filtre kahve içmiştim rengim atmış kendimi görünce irkildim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993972778320312
+      },
+      {
+        "text": "bade işçili yeni dizisinde görünce şoka uğradım beğendiğim kadındı yapmış",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993207454681396
+      },
+      {
+        "text": "robinho sivas’ta yok",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993020296096802
+      },
+      {
+        "text": "yaptım yok inanmam hazır almışsındır",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994219541549683
+      },
+      {
+        "text": "alışverişe çıktım mutluyum tek mutluluk kaynağım",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992318153381348
+      }
+    ]
+  },
+  {
+    "user_id": "u20",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6662954092025757,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08340277522802353,
+      "fear": 0.08350654691457748,
+      "happy": 0.1666378676891327,
+      "surprise": 0.6662954092025757,
+      "sad": 0.00015737053763587028
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 1,
+      "happy": 2,
+      "surprise": 8,
+      "sad": 0
+    },
+    "top_keywords": [
+      "vizeler",
+      "doğru",
+      "hayret",
+      "git",
+      "ettim",
+      "sürpriz"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "arkadaşıma namaza gittiğine inanmıyorum resim at dedim attı an konuşuyoruz namazdayken yazıyor şok",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994584918022156
+      },
+      {
+        "text": "millet mutluyum alevimin doğum günüsü",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.999187171459198
+      },
+      {
+        "text": "genelde doğru seçimler yapamayan birisiyim hayatımın doğru kararıymış duruşunu seviyorum",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9989638328552246
+      },
+      {
+        "text": "gitsem gidememkalsam kalamam şaştım işe diyen çelik çaresizliği üzerimde",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993932247161865
+      },
+      {
+        "text": "geri ver defolup git gidiyorsan git",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9989823698997498
+      },
+      {
+        "text": "şaşırtıcı gerçek dedikodu toplumsal açıdan faydalı olabilir",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9990412592887878
+      },
+      {
+        "text": "bi dolmuş şoförü yayaya yol verdi hayret ettim hayır normalde cm bulsalar burunlarını sokuyorlar",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993854761123657
+      },
+      {
+        "text": "bursadan hayret edici sonuç hayırdır beyler",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994552731513977
+      },
+      {
+        "text": "gerçekten beklemiyordum beklemiyorduk şahane sürpriz oldu verilen değerin değerini bilip değer vermek güzel meziyet",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993442893028259
+      },
+      {
+        "text": "konuşmaları dinleyebiliyor olmana hayret ettim",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994701743125916
+      },
+      {
+        "text": "ah vizeler kara vizeler kabus çöken vizeler",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999316930770874
+      },
+      {
+        "text": "cümledeki heceler yemen büyük sürpriz oldu",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993778467178345
+      }
+    ]
+  },
+  {
+    "user_id": "u21",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660690903663635,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.16674326360225677,
+      "fear": 0.08353700488805771,
+      "happy": 0.08349823206663132,
+      "surprise": 0.00015239354979712516,
+      "sad": 0.6660690903663635
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 2,
+      "fear": 1,
+      "happy": 1,
+      "surprise": 0,
+      "sad": 8
+    },
+    "top_keywords": [
+      "pişmanım",
+      "mutsuzum",
+      "sagopa",
+      "çalışmaya",
+      "kolera",
+      "kirpiklerim"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "babamla alışverişe çıkmak çılgınlık yaptım pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991337656974792
+      },
+      {
+        "text": "anlık triple sohbet grubundan çıktım pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991205334663391
+      },
+      {
+        "text": "kirpiklerim birbirine yapıştı kirpikle dolaşıyorum mutsuzum an",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990696310997009
+      },
+      {
+        "text": "annelerin yemek yeme düzensizliğine bağlamalarına sinir oluyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9994491934776306
+      },
+      {
+        "text": "gratise girdim baba pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990828037261963
+      },
+      {
+        "text": "gördüğüm oğlusun diyerek sorguya çekiyorlar bunaldım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9985925555229187
+      },
+      {
+        "text": "şanssızım mutsuzum sagopa kajmerle kolera ayrıldı senle ayrıldık kıyamet tahmini kopar",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991519451141357
+      },
+      {
+        "text": "hayatım korku filmi an sırtımdan bıçaklayacak bekliyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9994187355041504
+      },
+      {
+        "text": "millet ders çalışıyor şuan kötü oldum bende çalışmaya gidiyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990758895874023
+      },
+      {
+        "text": "hayal kırıklığı yaşamaktan yıprandım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990430474281311
+      },
+      {
+        "text": "gerizekalı twitter kasıyorsun",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993438124656677
+      },
+      {
+        "text": "güzel yorumlarınız teşekkür ederiz",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.99922776222229
+      }
+    ]
+  },
+  {
+    "user_id": "u22",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660275459289551,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.1667230725288391,
+      "fear": 0.08351302891969681,
+      "happy": 0.00028636041679419577,
+      "surprise": 0.08344995975494385,
+      "sad": 0.6660275459289551
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 2,
+      "fear": 1,
+      "happy": 0,
+      "surprise": 1,
+      "sad": 8
+    },
+    "top_keywords": [
+      "bıktım",
+      "mutsuzum",
+      "okuyamıyorum",
+      "selam",
+      "cevabını",
+      "aptal"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "bıktım bıktım insanların aptal koymasından bıktım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989626407623291
+      },
+      {
+        "text": "dizimin sezon finalini izleyeceğim mutsuzum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991208910942078
+      },
+      {
+        "text": "maliyet muhasebesi sorunun cevabını bulamıyorum çıldıracağım",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9992552399635315
+      },
+      {
+        "text": "ciddi olamazsın gün fazla şaşırtıyorsun",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9995009899139404
+      },
+      {
+        "text": "kadir akaras beyin babası vefat etmiş allah sabırlar versin kadir beye başsağlığı diliyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9984717965126038
+      },
+      {
+        "text": "yetkililerden acil kezbansız hava sahası talep ediyorum bıktım help me please",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990401864051819
+      },
+      {
+        "text": "kabus grip halı kitap okuyamıyorum",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.999363124370575
+      },
+      {
+        "text": "yıldım yoruldum tükendim bunaldım bıktım bezdim sıkıldım tahammülsüzleştim sebebi vizeler",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990602135658264
+      },
+      {
+        "text": "sinirliyim sebebini bilmiyorum",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993846416473389
+      },
+      {
+        "text": "selam arkadaşlar uykudan uyandım başım acıyor mutsuzum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9991136193275452
+      },
+      {
+        "text": "saatlik yoldan turşu getir bozuk çıksın moralim bozuldu",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990224838256836
+      },
+      {
+        "text": "başarısız kulüpte olmaktan mutsuzum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990062117576599
+      }
+    ]
+  },
+  {
+    "user_id": "u23",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660269498825073,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.08345609158277512,
+      "fear": 0.16678321361541748,
+      "happy": 0.00029824223020114005,
+      "surprise": 0.0834355279803276,
+      "sad": 0.6660269498825073
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 1,
+      "fear": 2,
+      "happy": 0,
+      "surprise": 1,
+      "sad": 8
+    },
+    "top_keywords": [
+      "okul",
+      "herşey",
+      "üzgünüm",
+      "nefret",
+      "ediyorum",
+      "mutsuzum"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "odamda örümcek fazla üzgünüm yerim kaşınmaya başladı kocaman",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9987491369247437
+      },
+      {
+        "text": "haftaya sınavlarım başlıyor tükendim",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9988584518432617
+      },
+      {
+        "text": "ölmekten korkmuyorum sevilmeden ölmek ürkütücü",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993754029273987
+      },
+      {
+        "text": "escobarı süpermen övüyorsunuz şok",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9994970560073853
+      },
+      {
+        "text": "zamandır stalklıyorum yoksun öldün kaldın endişelendim",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9992808699607849
+      },
+      {
+        "text": "trabzondayken evde olduğum saat hüzünlüyüm",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989708662033081
+      },
+      {
+        "text": "gün gerizekalı edebiyat ödevi uğraştığıma inanamıyorum nefret ediyorum dersten nefret",
+        "true": "angry",
+        "pred": "angry",
+        "conf": 0.9993128776550293
+      },
+      {
+        "text": "diyemediklerim üzgünüm",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.999043881893158
+      },
+      {
+        "text": "mutsuzum tırnaklarıma mutsuzum saç tellerime mutsuz",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990484118461609
+      },
+      {
+        "text": "of dertlendim durduk yere resmen boş vakitlerimde hobi kendime dert ediniyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990881681442261
+      },
+      {
+        "text": "uzaklardan feryat ediyorum çamurlandım kirlendim yıprandım manasız herşey herşey anlamsız",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989294409751892
+      },
+      {
+        "text": "okulda kaybetmekten sıkıldım okul okul kara delik",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989784955978394
+      }
+    ]
+  },
+  {
+    "user_id": "u24",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6659907698631287,
+    "n_tweets": 12,
+    "emotion_dist_mean": {
+      "angry": 0.00017840374493971467,
+      "fear": 0.08353043347597122,
+      "happy": 0.08358163386583328,
+      "surprise": 0.16671878099441528,
+      "sad": 0.6659907698631287
+    },
+    "emotion_dist_argmax_counts": {
+      "angry": 0,
+      "fear": 1,
+      "happy": 1,
+      "surprise": 2,
+      "sad": 8
+    },
+    "top_keywords": [
+      "varsa",
+      "pişmanım",
+      "yoruldum",
+      "verdiği",
+      "söylediğim",
+      "soldum"
+    ],
+    "tweets_predicted": [
+      {
+        "text": "kabusla uyandım aq saatte kabus",
+        "true": "fear",
+        "pred": "fear",
+        "conf": 0.9993745684623718
+      },
+      {
+        "text": "ts editörü uğraşmış dilde teşekkür edeceğimi şaşırdım",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.99947589635849
+      },
+      {
+        "text": "bölüm olmuş pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990257024765015
+      },
+      {
+        "text": "ufak abartı yok diyeceğimde günleri insanları anları özlemekten soldum tükendim halim kalmadı",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990076422691345
+      },
+      {
+        "text": "söylediğim hiçbirşey pişman değilim insan koyduğum pişmanım",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990290403366089
+      },
+      {
+        "text": "erken uyandığım zamanlar mutsuz ağlama hisli oluyorum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9990695118904114
+      },
+      {
+        "text": "lisenin bitmesinin verdiği hüzün",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9983183145523071
+      },
+      {
+        "text": "olacağı varsa biteceği varsa bitsin yoruldum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9988942742347717
+      },
+      {
+        "text": "oha demekten tepki veremiyorum bitince hasiktir dedim galiba",
+        "true": "surprise",
+        "pred": "surprise",
+        "conf": 0.9993163347244263
+      },
+      {
+        "text": "ülke komik alıyor",
+        "true": "happy",
+        "pred": "happy",
+        "conf": 0.9992684721946716
+      },
+      {
+        "text": "diyemediklerim üzgünüm",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.999043881893158
+      },
+      {
+        "text": "gayret et inan yoruldum",
+        "true": "sad",
+        "pred": "sad",
+        "conf": 0.9989206790924072
+      }
+    ]
+  }
+]

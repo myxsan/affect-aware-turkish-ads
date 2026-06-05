@@ -1,0 +1,12 @@
+{
+  "ad_text": "FormaSet ile evde sadece 20 dakika ayırarak yeni başlayan veya ileri seviye antrenman programlarına başlayabilir, Türkçe video rehberleriyle ilerlemenizi takip edebilirsiniz, tüm bunlar sadece 299 TL'ye, tek seferlik ödeyerek FormaSet'in avantajlarından yararlanabilirsiniz.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 2.954,
+    "key": "2a0a05fd3ce4485c9c98d022"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır.\n\nÜRÜN:\nİsim: FormaSet\nAçıklama: Evde yapılabilen 4 haftalık antrenman programları ve Türkçe video rehberlerinden oluşan dijital bir fitness paketi.\nÖne çıkan özellikler: evde 20 dk antrenman, yeni başlayan-ileri seviye, ilerleme takibi\nFiyat: tek seferlik 299 TL\n\nREKLAM METNİ:"
+}

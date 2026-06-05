@@ -1,0 +1,28 @@
+# Affect-Aware Turkish Ad Generation — pinned dependencies
+# Used by: colab_notebook.ipynb (notebook) and demo/app.py (Streamlit)
+#
+# Install:
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# On Colab, colab_notebook.ipynb's §0 pip-installs a subset of these
+# (transformers + sklearn + groq + sentencepiece + protobuf); Colab pre-ships
+# the rest.
+
+# --- core ML ---
+torch>=2.0
+transformers>=4.40
+scikit-learn>=1.3
+sentencepiece
+protobuf
+
+# --- data / plotting ---
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# --- LLM backend ---
+groq>=0.13          # only real-LLM backend; stub fallback if no GROQ_API_KEY is set
+
+# --- Streamlit demo ---
+streamlit>=1.40

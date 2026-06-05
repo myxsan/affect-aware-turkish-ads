@@ -1,0 +1,7 @@
+{
+  "ad_text": "{\n  \"A\": {\n      \"personalization\": 4,\n      \"naturalness\": 5,\n      \"product_clarity\": 4,\n      \"creep_factor\": 2,\n      \"reasoning\": \"Reklam metni, kullanıcının korkulu duygu durumuna hitap ederek güvende hissetmenin önemini vurguluyor.\"\n   },\n   \"B\": {\n      \"personalization\": 3,\n      \"naturalness\": 4,\n      \"product_clarity\": 5,\n      \"creep_factor\": 3,\n      \"reasoning\": \"Reklam metni, ürünün özelliklerini net bir şekilde açıklıyor ancak kullanıcının duygusal durumuna fazla odaklanmıyor.\"\n   },\n   \"C\": {\n      \"personalization\": 4,\n      \"naturalness\": 4,\n      \"product_clarity\": 4,\n      \"creep_factor\": 2,\n      \"reasoning\": \"Reklam metni, kullanıcının korkularını hedef alıyor ve EvGözcü'nün huzur getirici bir çözüm olduğunu vurguluyor.\"\n   }\n}",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile"
+  }
+}

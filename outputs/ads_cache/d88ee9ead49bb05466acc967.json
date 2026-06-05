@@ -1,0 +1,7 @@
+{
+  "ad_text": "{\n  \"A\": {\n      \"personalization\": 2,\n      \"naturalness\": 4,\n      \"product_clarity\": 5,\n      \"creep_factor\": 4,\n      \"reasoning\": \"Reklam metni kullanıcının üzgün duygu durumuna tam olarak odaklanmıyor.\"\n   },\n   \"B\": {\n      \"personalization\": 5,\n      \"naturalness\": 5,\n      \"product_clarity\": 5,\n      \"creep_factor\": 2,\n      \"reasoning\": \"Reklam metni kullanıcının üzgün duygu durumunu anlıyor ve ona umut veriyor.\"\n   },\n   \"C\": {\n      \"personalization\": 1,\n      \"naturalness\": 4,\n      \"product_clarity\": 5,\n      \"creep_factor\": 5,\n      \"reasoning\": \"Reklam metni kullanıcının duygu durumuna odaklanmıyor ve direkt olarak ürünün özelliklerine odaklanıyor.\"\n   }\n}",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile"
+  }
+}

@@ -1,0 +1,6 @@
+,personalization,personalization,naturalness,naturalness,product_clarity,product_clarity,creep_factor,creep_factor
+,mean,std,mean,std,mean,std,mean,std
+variant,,,,,,,,
+full,4.4,0.7,4.5,0.53,4.4,0.52,1.8,0.63
+generic,2.0,0.67,4.0,0.47,4.8,0.42,3.9,1.29
+random,2.6,0.97,4.1,0.57,4.7,0.48,3.3,1.42

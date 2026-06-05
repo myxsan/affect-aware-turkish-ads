@@ -1,0 +1,352 @@
+[
+  {
+    "user_id": "u00",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.41648852825164795,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %42 şaşkın, %33 öfkeli, %25 korkulu, %0 mutlu, %0 üzgün.\nSıkça geçen içerik terimleri: şaşkına, döndüm, lan, korkunç, şok, sela.\nÖrnek paylaşımları:\n  - \"çamlıca televizyon radyo kulesi inşaatında korkunç ölüm metre yükseklikten aşağıya düştü\"\n  - \"şeffaf adam gördüm şaşkına döndüm dünyanın şeffaf insanı sanıyordum şok\"\n  - \"beyin hücresini taneyle verdiler lan olmaz lan nefret ediyorum\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %17 mutlu, %17 üzgün, %0 korkulu, %0 şaşkın.\nSıkça geçen içerik terimleri: gösteriyor, geldiğinde, ağrı, özeti, günlük, nice.\nÖrnek paylaşımları:\n  - \"gösteriyor kafayı yiyeceğim\"\n  - \"internet aldım aksam gitmiş delireceğim saçmalık\"\n  - \"gün kötü güne uyanıyoruz ülkede\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u05",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u01",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.3331835865974426,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 öfkeli, %25 mutlu, %17 korkulu, %17 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: yerlere, yollar, yağdığında, taraftarı, pizza, oğlumu.\nÖrnek paylaşımları:\n  - \"sırf inat egonuz yüzünden küfürler\"\n  - \"bursa taraftarı tekbir getiriyor kesecekler besiktaslilari eğlendim\"\n  - \"soyisimlerinizi kullanarak yerlere gelmenize aşırı kızgınım\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %42 şaşkın, %33 öfkeli, %25 korkulu, %0 mutlu, %0 üzgün.\nSıkça geçen içerik terimleri: şaşkına, döndüm, lan, korkunç, şok, sela.\nÖrnek paylaşımları:\n  - \"bekliyordum bilmiyorum nesil diyarbakırlı çıktım şaşkınım\"\n  - \"sela sesiyle uyanmak ürkütücü yok\"\n  - \"hava soğudu kaloriferleri kapattılar yurt delireceğim\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u00",
+    "random_donor_emotion": "surprise"
+  },
+  {
+    "user_id": "u02",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.33320775628089905,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 şaşkın, %33 mutlu, %25 korkulu, %8 öfkeli, %0 üzgün.\nSıkça geçen içerik terimleri: yeni, sene, allah, irkildim, sürpriz, güzel.\nÖrnek paylaşımları:\n  - \"allah’ımm mutluyum gün güzel şükredebilirim\"\n  - \"feyza aşktır seviyoruz\"\n  - \"ayakta gittiğim dolmuşta şoför emniyet kemerini takmamış endişelendim\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 şaşkın, %8 öfkeli, %8 üzgün, %0 mutlu.\nSıkça geçen içerik terimleri: ara, koptu, ödüm, kabus, bugün, oynarken.\nÖrnek paylaşımları:\n  - \"korkutan insan yapmışlar allah canımı almasın ödüm koptu\"\n  - \"parazitlerden korktum inş kabus görmem amin\"\n  - \"evlatlarım güncelleme yapıyor bugün kral şaştım kaldım vallahi\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u10",
+    "random_donor_emotion": "fear"
+  },
+  {
+    "user_id": "u03",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.2501453757286072,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %25 korkulu, %25 öfkeli, %25 üzgün, %17 şaşkın, %8 mutlu.\nSıkça geçen içerik terimleri: hain, buz, risk, yollar, korkmadım, gelmedi.\nÖrnek paylaşımları:\n  - \"hürrem hain kadın gelmedi kainata bak aklıma geldi sinirlendim\"\n  - \"risk almaktan korkmadım sevdiklerimi üzerim ödüm koptu\"\n  - \"renge dönsem yüzümü hüzün\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 şaşkın, %8 korkulu, %8 üzgün, %0 öfkeli.\nSıkça geçen içerik terimleri: arkadaşlar, hissediyorum, güzel, çalınan, kaybetmiş, girmiş.\nÖrnek paylaşımları:\n  - \"arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık\"\n  - \"osmanlının puanını yediler kayseriye çalınan penaltı komik bence\"\n  - \"özledim bilse ah bilseniz\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u13",
+    "random_donor_emotion": "happy"
+  },
+  {
+    "user_id": "u04",
+    "type": "balanced",
+    "true_dominant": null,
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.41653287410736084,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %42 korkulu, %25 öfkeli, %25 üzgün, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: kalmaktan, verici, yaşayamadığım, üzerimden, uslu, kuzenim.\nÖrnek paylaşımları:\n  - \"yorgunum üzerimden fil geçmiş hissediyorum\"\n  - \"mutsuzum heidinin pislik claranın evinde hapsolduğu bölümleri izleyip ağlıyorum\"\n  - \"kanada yemendeki kötüye giden durum endişe verici\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 şaşkın, %8 korkulu, %8 üzgün, %0 öfkeli.\nSıkça geçen içerik terimleri: arkadaşlar, hissediyorum, güzel, çalınan, kaybetmiş, girmiş.\nÖrnek paylaşımları:\n  - \"arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık\"\n  - \"osmanlının puanını yediler kayseriye çalınan penaltı komik bence\"\n  - \"özledim bilse ah bilseniz\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u13",
+    "random_donor_emotion": "happy"
+  },
+  {
+    "user_id": "u05",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662700772285461,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %17 mutlu, %17 üzgün, %0 korkulu, %0 şaşkın.\nSıkça geçen içerik terimleri: gösteriyor, geldiğinde, ağrı, özeti, günlük, nice.\nÖrnek paylaşımları:\n  - \"gösteriyor kafayı yiyeceğim\"\n  - \"internet aldım aksam gitmiş delireceğim saçmalık\"\n  - \"gün kötü güne uyanıyoruz ülkede\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 üzgün, %8 mutlu, %8 şaşkın, %0 öfkeli.\nSıkça geçen içerik terimleri: korkuyorum, mıdır, gram, kısalmış, ezhel, bitirmeye.\nÖrnek paylaşımları:\n  - \"korktum biliyor\"\n  - \"spordan geldiğimde boyum kısalmış mıdır korkuyorum amk\"\n  - \"şaşırdım kaldım bilmem nemsin\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u09",
+    "random_donor_emotion": "fear"
+  },
+  {
+    "user_id": "u06",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662785410881042,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %25 üzgün, %8 mutlu, %0 korkulu, %0 şaşkın.\nSıkça geçen içerik terimleri: sinir, sorduğumda, paylaşmayın, istemeyen, koyup, maaş.\nÖrnek paylaşımları:\n  - \"sinir küpüyüm bulaşanın canını fena yakarım\"\n  - \"cahil beyinliler bilmişlik yapıyor sinir oluyorum abi\"\n  - \"günaydın sevmesini bilen guzel insanlar\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %42 korkulu, %25 öfkeli, %25 üzgün, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: kalmaktan, verici, yaşayamadığım, üzerimden, uslu, kuzenim.\nÖrnek paylaşımları:\n  - \"otobüs kartım çekmeye başladı öğrenci değilim resmen kabus\"\n  - \"kuzenim taylor kısa saçlı doğmuş bence dedi dondum kaldım\"\n  - \"ağız şapırdatmak sinir bozucu yoktur\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u04",
+    "random_donor_emotion": "fear"
+  },
+  {
+    "user_id": "u07",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6661973595619202,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %8 korkulu, %8 mutlu, %8 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: aaa, nefret, çıkamıyorum, üniversitede, sahne, malı.\nÖrnek paylaşımları:\n  - \"tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek\"\n  - \"sinirlenince cümle kuramamaktan nefret ediyorum\"\n  - \"leonspiro sahnesinin etkisinden çıkamıyorum içimi hüzün kapladı abv sahne hüzünlü değildi oldu\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 öfkeli, %8 korkulu, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: bıktım, mutsuzum, okuyamıyorum, selam, cevabını, aptal.\nÖrnek paylaşımları:\n  - \"dizimin sezon finalini izleyeceğim mutsuzum\"\n  - \"selam arkadaşlar uykudan uyandım başım acıyor mutsuzum\"\n  - \"maliyet muhasebesi sorunun cevabını bulamıyorum çıldıracağım\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u22",
+    "random_donor_emotion": "sad"
+  },
+  {
+    "user_id": "u08",
+    "type": "skewed",
+    "true_dominant": "angry",
+    "predicted_dominant": "angry",
+    "dominant_confidence": 0.6662639379501343,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %17 şaşkın, %8 korkulu, %8 üzgün, %0 mutlu.\nSıkça geçen içerik terimleri: nefes, kötü, delireceğim, kafayı, olayını, yaa.\nÖrnek paylaşımları:\n  - \"kedim kızgınlığa girdi ulusa seslenir miyavlıyo yeter delireceğim\"\n  - \"dünya üzerinde nefes sinir oluyorum an hayvanlar hariç\"\n  - \"gözümü kapıyorum an geliyor allahım korkunçtu\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %25 korkulu, %25 öfkeli, %25 üzgün, %17 şaşkın, %8 mutlu.\nSıkça geçen içerik terimleri: hain, buz, risk, yollar, korkmadım, gelmedi.\nÖrnek paylaşımları:\n  - \"tanrım kafayı yemek üzereyim\"\n  - \"aslan’ım attın kaçırıyorsun hayret\"\n  - \"renge dönsem yüzümü hüzün\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u03",
+    "random_donor_emotion": "fear"
+  },
+  {
+    "user_id": "u09",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6665952801704407,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 üzgün, %8 mutlu, %8 şaşkın, %0 öfkeli.\nSıkça geçen içerik terimleri: korkuyorum, mıdır, gram, kısalmış, ezhel, bitirmeye.\nÖrnek paylaşımları:\n  - \"korktum biliyor\"\n  - \"spordan geldiğimde boyum kısalmış mıdır korkuyorum amk\"\n  - \"şaşırdım kaldım bilmem nemsin\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 şaşkın, %8 mutlu, %8 korkulu, %0 öfkeli.\nSıkça geçen içerik terimleri: varsa, pişmanım, yoruldum, verdiği, söylediğim, soldum.\nÖrnek paylaşımları:\n  - \"erken uyandığım zamanlar mutsuz ağlama hisli oluyorum\"\n  - \"diyemediklerim üzgünüm\"\n  - \"ts editörü uğraşmış dilde teşekkür edeceğimi şaşırdım\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u24",
+    "random_donor_emotion": "sad"
+  },
+  {
+    "user_id": "u10",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6662679314613342,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 şaşkın, %8 öfkeli, %8 üzgün, %0 mutlu.\nSıkça geçen içerik terimleri: ara, koptu, ödüm, kabus, bugün, oynarken.\nÖrnek paylaşımları:\n  - \"korkutan insan yapmışlar allah canımı almasın ödüm koptu\"\n  - \"parazitlerden korktum inş kabus görmem amin\"\n  - \"ara ara kendime harbi sarı saçlıyım ha hayret ediyorum\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %8 korkulu, %8 öfkeli, %8 mutlu, %8 üzgün.\nSıkça geçen içerik terimleri: görünce, allah, ettim, hayret, malı, kaynağım.\nÖrnek paylaşımları:\n  - \"fark ettim bugün fotoğrafımı atmamışım hayret\"\n  - \"hayret ettim mesaj atmana oldu allah allah\"\n  - \"alışverişe çıktım mutluyum tek mutluluk kaynağım\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u19",
+    "random_donor_emotion": "surprise"
+  },
+  {
+    "user_id": "u11",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6663019061088562,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 şaşkın, %8 öfkeli, %8 üzgün, %0 mutlu.\nSıkça geçen içerik terimleri: korkuyorum, yüzünden, herşey, vallahi, ediyorum, sürpriz.\nÖrnek paylaşımları:\n  - \"gece robot olduğuma dair bi kabus gördüm korktum annemin yanına gittim onla uyudum\"\n  - \"tarz sessiz sakin havalardan nedense korkuyorum fırtına öncesi sessizlik\"\n  - \"teşekkür ediyorum güzel sürpriz oldu iyiki varsınız\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 öfkeli, %25 mutlu, %17 korkulu, %17 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: yerlere, yollar, yağdığında, taraftarı, pizza, oğlumu.\nÖrnek paylaşımları:\n  - \"site toplantısına oğlumu yolladım sinir küpü olmuş geldi\"\n  - \"annesi sarı saçlı mavi gözlü bebekle ilgilenmemi istedi mutluyum an\"\n  - \"sırf inat egonuz yüzünden küfürler\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u01",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u12",
+    "type": "skewed",
+    "true_dominant": "fear",
+    "predicted_dominant": "fear",
+    "dominant_confidence": 0.6663263440132141,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %8 mutlu, %8 üzgün, %8 öfkeli, %8 şaşkın.\nSıkça geçen içerik terimleri: korkuyorum, sitede, okullar, sesti, instagramdan, kararı.\nÖrnek paylaşımları:\n  - \"korkuyorum cesaretim kayıp\"\n  - \"sesti ödüm koptu allahtan kimseye bişey olmamış\"\n  - \"gerizekalı insan sitede kötü atlara binip defolup gitse keşke\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %42 şaşkın, %33 öfkeli, %25 korkulu, %0 mutlu, %0 üzgün.\nSıkça geçen içerik terimleri: şaşkına, döndüm, lan, korkunç, şok, sela.\nÖrnek paylaşımları:\n  - \"sela sesiyle uyanmak ürkütücü yok\"\n  - \"gördüğüm kadarıyla kışın gelmesini beklemiyordu büyük sürpriz oldu\"\n  - \"bekliyordum bilmiyorum nesil diyarbakırlı çıktım şaşkınım\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u00",
+    "random_donor_emotion": "surprise"
+  },
+  {
+    "user_id": "u13",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6662879586219788,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 şaşkın, %8 korkulu, %8 üzgün, %0 öfkeli.\nSıkça geçen içerik terimleri: arkadaşlar, hissediyorum, güzel, çalınan, kaybetmiş, girmiş.\nÖrnek paylaşımları:\n  - \"arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık\"\n  - \"osmanlının puanını yediler kayseriye çalınan penaltı komik bence\"\n  - \"tarihi görünce şaşırdım drone boyutunu işlediğiniz akışınız\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 şaşkın, %33 mutlu, %25 korkulu, %8 öfkeli, %0 üzgün.\nSıkça geçen içerik terimleri: yeni, sene, allah, irkildim, sürpriz, güzel.\nÖrnek paylaşımları:\n  - \"ayakta gittiğim dolmuşta şoför emniyet kemerini takmamış endişelendim\"\n  - \"vay taeyang gelin oldun gidiyorsun\"\n  - \"allah’ımm mutluyum gün güzel şükredebilirim\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u02",
+    "random_donor_emotion": "surprise"
+  },
+  {
+    "user_id": "u14",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6661800742149353,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 korkulu, %17 öfkeli, %0 üzgün, %0 şaşkın.\nSıkça geçen içerik terimleri: hissediyorum, bugün, teşekkür, kendimi, ederim, harika.\nÖrnek paylaşımları:\n  - \"rica ederim tatlım öğle tatili teşekkür ederim eşlik ettiğin seviyorum\"\n  - \"dünyaya gözlerimi açtığım gün bugün kendimi harika hissediyorum günaydınlar\"\n  - \"rezil rüya gördüm bugün ürktüm\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %25 üzgün, %8 mutlu, %0 korkulu, %0 şaşkın.\nSıkça geçen içerik terimleri: sinir, sorduğumda, paylaşmayın, istemeyen, koyup, maaş.\nÖrnek paylaşımları:\n  - \"sinir küpüyüm bulaşanın canını fena yakarım\"\n  - \"cahil beyinliler bilmişlik yapıyor sinir oluyorum abi\"\n  - \"vizeler bitti bende bittim tükendim yeminle\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u06",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u15",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.660822331905365,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %66 mutlu, %25 şaşkın, %9 korkulu, %0 üzgün, %0 öfkeli.\nSıkça geçen içerik terimleri: mutluyum, haha, eğlendim, yılların, mesajı, günüydü.\nÖrnek paylaşımları:\n  - \"fineas förb izliyordum kliplerinin top listesini verdiler eğlendim mutluyum\"\n  - \"ilgilendirmiyor eğlendim başlamadan bitti karşılama haha\"\n  - \"hayret ediyorum anadolu cennet diyorum inanmıyorsun\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %8 korkulu, %8 mutlu, %8 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: aaa, nefret, çıkamıyorum, üniversitede, sahne, malı.\nÖrnek paylaşımları:\n  - \"tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek\"\n  - \"sinirlenince cümle kuramamaktan nefret ediyorum\"\n  - \"güldüm yüzüm kasıldı\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u07",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u16",
+    "type": "skewed",
+    "true_dominant": "happy",
+    "predicted_dominant": "happy",
+    "dominant_confidence": 0.6661728024482727,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 öfkeli, %8 korkulu, %8 üzgün, %0 şaşkın.\nSıkça geçen içerik terimleri: izliyorum, yaşasın, seviyorum, uyanıcam, pusat, komedi.\nÖrnek paylaşımları:\n  - \"aybüke pusat güzel dans etti vallahi gösterisini beğendim\"\n  - \"yok gayet hoş tepki seviyorum\"\n  - \"of kütahyada bunaldım ankaraya gideyim deniz havası alayım\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %17 mutlu, %8 korkulu, %8 öfkeli, %0 üzgün.\nSıkça geçen içerik terimleri: vizeler, doğru, hayret, git, ettim, sürpriz.\nÖrnek paylaşımları:\n  - \"konuşmaları dinleyebiliyor olmana hayret ettim\"\n  - \"arkadaşıma namaza gittiğine inanmıyorum resim at dedim attı an konuşuyoruz namazdayken yazıyor şok\"\n  - \"geri ver defolup git gidiyorsan git\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u20",
+    "random_donor_emotion": "surprise"
+  },
+  {
+    "user_id": "u17",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6663302779197693,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %17 öfkeli, %8 mutlu, %8 üzgün, %0 korkulu.\nSıkça geçen içerik terimleri: merve, kaldım, şaştım, hayret, destekledim, bölümü.\nÖrnek paylaşımları:\n  - \"şaşırmıyorum hayret ediyorum\"\n  - \"bugün yürürken inek boku gördüm kadarda bts antisine benziyor şaştım kaldım yahu\"\n  - \"fenerbahçe forması giyer sorusuna şeref duyarım diyen taçsız kral doğum günün kutlu\"",
+      "random": "Bu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 öfkeli, %25 mutlu, %17 korkulu, %17 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: yerlere, yollar, yağdığında, taraftarı, pizza, oğlumu.\nÖrnek paylaşımları:\n  - \"annesi sarı saçlı mavi gözlü bebekle ilgilenmemi istedi mutluyum an\"\n  - \"sırf inat egonuz yüzünden küfürler\"\n  - \"gel gör kötüyüm bugün sesime ses değse çığlık\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u01",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u18",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6662854552268982,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %17 mutlu, %8 öfkeli, %8 üzgün, %0 korkulu.\nSıkça geçen içerik terimleri: sevgilim, aldım, öğrendiğimde, ürün, misafir, kitaplar.\nÖrnek paylaşımları:\n  - \"unuttum hayret ettim\"\n  - \"rahatsız ediyormuşum numarayı değiştirmek inanamıyorum\"\n  - \"misafir gelmesinden nefret ediyorum amk\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 korkulu, %8 öfkeli, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: okul, herşey, üzgünüm, nefret, ediyorum, mutsuzum.\nÖrnek paylaşımları:\n  - \"of dertlendim durduk yere resmen boş vakitlerimde hobi kendime dert ediniyorum\"\n  - \"mutsuzum tırnaklarıma mutsuzum saç tellerime mutsuz\"\n  - \"ölmekten korkmuyorum sevilmeden ölmek ürkütücü\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u23",
+    "random_donor_emotion": "sad"
+  },
+  {
+    "user_id": "u19",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6663059592247009,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %8 korkulu, %8 öfkeli, %8 mutlu, %8 üzgün.\nSıkça geçen içerik terimleri: görünce, allah, ettim, hayret, malı, kaynağım.\nÖrnek paylaşımları:\n  - \"fark ettim bugün fotoğrafımı atmamışım hayret\"\n  - \"hayret ettim mesaj atmana oldu allah allah\"\n  - \"yemeğini yemeyip filtre kahve içmiştim rengim atmış kendimi görünce irkildim\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %17 şaşkın, %8 korkulu, %8 üzgün, %0 mutlu.\nSıkça geçen içerik terimleri: nefes, kötü, delireceğim, kafayı, olayını, yaa.\nÖrnek paylaşımları:\n  - \"kedim kızgınlığa girdi ulusa seslenir miyavlıyo yeter delireceğim\"\n  - \"dünya üzerinde nefes sinir oluyorum an hayvanlar hariç\"\n  - \"şakadır kesin yok inanmam ayrıldınız yaa\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u08",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u20",
+    "type": "skewed",
+    "true_dominant": "surprise",
+    "predicted_dominant": "surprise",
+    "dominant_confidence": 0.6662954092025757,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %17 mutlu, %8 korkulu, %8 öfkeli, %0 üzgün.\nSıkça geçen içerik terimleri: vizeler, doğru, hayret, git, ettim, sürpriz.\nÖrnek paylaşımları:\n  - \"konuşmaları dinleyebiliyor olmana hayret ettim\"\n  - \"arkadaşıma namaza gittiğine inanmıyorum resim at dedim attı an konuşuyoruz namazdayken yazıyor şok\"\n  - \"geri ver defolup git gidiyorsan git\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 korkulu, %8 öfkeli, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: okul, herşey, üzgünüm, nefret, ediyorum, mutsuzum.\nÖrnek paylaşımları:\n  - \"of dertlendim durduk yere resmen boş vakitlerimde hobi kendime dert ediniyorum\"\n  - \"mutsuzum tırnaklarıma mutsuzum saç tellerime mutsuz\"\n  - \"ölmekten korkmuyorum sevilmeden ölmek ürkütücü\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u23",
+    "random_donor_emotion": "sad"
+  },
+  {
+    "user_id": "u21",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660690903663635,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 öfkeli, %8 korkulu, %8 mutlu, %0 şaşkın.\nSıkça geçen içerik terimleri: pişmanım, mutsuzum, sagopa, çalışmaya, kolera, kirpiklerim.\nÖrnek paylaşımları:\n  - \"şanssızım mutsuzum sagopa kajmerle kolera ayrıldı senle ayrıldık kıyamet tahmini kopar\"\n  - \"babamla alışverişe çıkmak çılgınlık yaptım pişmanım\"\n  - \"hayatım korku filmi an sırtımdan bıçaklayacak bekliyorum\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 şaşkın, %8 korkulu, %8 üzgün, %0 öfkeli.\nSıkça geçen içerik terimleri: arkadaşlar, hissediyorum, güzel, çalınan, kaybetmiş, girmiş.\nÖrnek paylaşımları:\n  - \"arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık\"\n  - \"osmanlının puanını yediler kayseriye çalınan penaltı komik bence\"\n  - \"tarihi görünce şaşırdım drone boyutunu işlediğiniz akışınız\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u13",
+    "random_donor_emotion": "happy"
+  },
+  {
+    "user_id": "u22",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660275459289551,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 öfkeli, %8 korkulu, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: bıktım, mutsuzum, okuyamıyorum, selam, cevabını, aptal.\nÖrnek paylaşımları:\n  - \"dizimin sezon finalini izleyeceğim mutsuzum\"\n  - \"selam arkadaşlar uykudan uyandım başım acıyor mutsuzum\"\n  - \"ciddi olamazsın gün fazla şaşırtıyorsun\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak öfkeli bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 öfkeli, %8 korkulu, %8 mutlu, %8 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: aaa, nefret, çıkamıyorum, üniversitede, sahne, malı.\nÖrnek paylaşımları:\n  - \"tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek\"\n  - \"sinirlenince cümle kuramamaktan nefret ediyorum\"\n  - \"güldüm yüzüm kasıldı\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u07",
+    "random_donor_emotion": "angry"
+  },
+  {
+    "user_id": "u23",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6660269498825073,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 korkulu, %8 öfkeli, %8 şaşkın, %0 mutlu.\nSıkça geçen içerik terimleri: okul, herşey, üzgünüm, nefret, ediyorum, mutsuzum.\nÖrnek paylaşımları:\n  - \"of dertlendim durduk yere resmen boş vakitlerimde hobi kendime dert ediniyorum\"\n  - \"mutsuzum tırnaklarıma mutsuzum saç tellerime mutsuz\"\n  - \"gün gerizekalı edebiyat ödevi uğraştığıma inanamıyorum nefret ediyorum dersten nefret\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak mutlu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 mutlu, %17 korkulu, %17 öfkeli, %0 üzgün, %0 şaşkın.\nSıkça geçen içerik terimleri: hissediyorum, bugün, teşekkür, kendimi, ederim, harika.\nÖrnek paylaşımları:\n  - \"rica ederim tatlım öğle tatili teşekkür ederim eşlik ettiğin seviyorum\"\n  - \"dünyaya gözlerimi açtığım gün bugün kendimi harika hissediyorum günaydınlar\"\n  - \"maçın özeti korkak hoca maçı verdi defol git rıza\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u14",
+    "random_donor_emotion": "happy"
+  },
+  {
+    "user_id": "u24",
+    "type": "skewed",
+    "true_dominant": "sad",
+    "predicted_dominant": "sad",
+    "dominant_confidence": 0.6659907698631287,
+    "personas": {
+      "full": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 şaşkın, %8 mutlu, %8 korkulu, %0 öfkeli.\nSıkça geçen içerik terimleri: varsa, pişmanım, yoruldum, verdiği, söylediğim, soldum.\nÖrnek paylaşımları:\n  - \"erken uyandığım zamanlar mutsuz ağlama hisli oluyorum\"\n  - \"diyemediklerim üzgünüm\"\n  - \"ts editörü uğraşmış dilde teşekkür edeceğimi şaşırdım\"",
+      "random": "Bu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak şaşkın bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 şaşkın, %17 mutlu, %8 öfkeli, %8 üzgün, %0 korkulu.\nSıkça geçen içerik terimleri: sevgilim, aldım, öğrendiğimde, ürün, misafir, kitaplar.\nÖrnek paylaşımları:\n  - \"unuttum hayret ettim\"\n  - \"rahatsız ediyormuşum numarayı değiştirmek inanamıyorum\"\n  - \"ürün aldım gratisten güzel hissediyorum\"",
+      "generic": "Bu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır."
+    },
+    "random_donor_id": "u18",
+    "random_donor_emotion": "surprise"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "user_id": "u05",
+    "product_id": "p02",
+    "true_dominant": "angry",
+    "reveal": {
+      "A": "random",
+      "B": "full",
+      "C": "generic"
+    },
+    "scores": {
+      "random": {
+        "personalization": 3,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının öfke duygusuna tam olarak hitap etmemektedir."
+      },
+      "full": {
+        "personalization": 5,
+        "naturalness": 5,
+        "product_clarity": 5,
+        "creep_factor": 1,
+        "reasoning": "Reklam metni kullanıcının öfke ve stres duygusuna doğrudan hitap etmekte ve ürünün faydalarını açık bir şekilde açıklamaktadır."
+      },
+      "generic": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 3,
+        "reasoning": "Reklam metni genel olarak günlük hayatın stresini geride bırakma üzerine odaklanmakta ancak kullanıcının spesifik duygusal durumuna tam olarak odaklanmamaktadır."
+      }
+    }
+  },
+  {
+    "user_id": "u05",
+    "product_id": "p05",
+    "true_dominant": "angry",
+    "reveal": {
+      "A": "generic",
+      "B": "random",
+      "C": "full"
+    },
+    "scores": {
+      "generic": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının öfke duygusuna özel bir hitap içermez."
+      },
+      "random": {
+        "personalization": 1,
+        "naturalness": 3,
+        "product_clarity": 4,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni korku duygusuna odaklanmakta ve kullanıcının öfke duygusuna hitap etmemektedir."
+      },
+      "full": {
+        "personalization": 5,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni kullanıcının öfke duygusuna doğrudan hitap etmekte ve stresini atmasına yardımcı olabileceğini belirtmektedir."
+      }
+    }
+  },
+  {
+    "user_id": "u09",
+    "product_id": "p06",
+    "true_dominant": "fear",
+    "reveal": {
+      "A": "random",
+      "B": "generic",
+      "C": "full"
+    },
+    "scores": {
+      "random": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının korkulu duygu durumuna özel bir hitap içermemektedir."
+      },
+      "generic": {
+        "personalization": 3,
+        "naturalness": 5,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Reklam metni hem ürünün özelliklerini net bir şekilde açıklamakta hem de doğal bir dil kullanmaktadır ancak kullanıcının korkulu duygu durumuna özel bir çözüm önermemektedir."
+      },
+      "full": {
+        "personalization": 4,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni kullanıcının korkulu duygu durumuna hitap etmekte ve kaygılardan kurtulmayı vaat etmektedir ancak ürünün özelliklerini diğer reklamlar kadar net bir şekilde açıklamamaktadır."
+      }
+    }
+  },
+  {
+    "user_id": "u09",
+    "product_id": "p10",
+    "true_dominant": "fear",
+    "reveal": {
+      "A": "random",
+      "B": "generic",
+      "C": "full"
+    },
+    "scores": {
+      "random": {
+        "personalization": 4,
+        "naturalness": 5,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni, kullanıcının korkulu duygu durumuna hitap ederek güvende hissetmenin önemini vurguluyor."
+      },
+      "generic": {
+        "personalization": 3,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 3,
+        "reasoning": "Reklam metni, ürünün özelliklerini net bir şekilde açıklıyor ancak kullanıcının duygusal durumuna fazla odaklanmıyor."
+      },
+      "full": {
+        "personalization": 4,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni, kullanıcının korkularını hedef alıyor ve EvGözcü'nün huzur getirici bir çözüm olduğunu vurguluyor."
+      }
+    }
+  },
+  {
+    "user_id": "u13",
+    "product_id": "p03",
+    "true_dominant": "happy",
+    "reveal": {
+      "A": "random",
+      "B": "full",
+      "C": "generic"
+    },
+    "scores": {
+      "random": {
+        "personalization": 4,
+        "naturalness": 5,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni, kullanıcının mutlu duygu durumuna ve sıkça geçen içerik terimlerine (güzel, hissediyorum) uygun bir şekilde hazırlanmıştır."
+      },
+      "full": {
+        "personalization": 3,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 3,
+        "reasoning": "Reklam metni, kullanıcının hayal ettiği hafta sonu kaçamağına odaklanır, ancak duygusal bağ kurma açısından biraz yetersiz kalır."
+      },
+      "generic": {
+        "personalization": 2,
+        "naturalness": 3,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni, ürünün özelliklerine odaklanır, ancak kullanıcının duygusal durumuna ve tercihlerine uygun bir şekilde hazırlanmamıştır."
+      }
+    }
+  },
+  {
+    "user_id": "u13",
+    "product_id": "p08",
+    "true_dominant": "happy",
+    "reveal": {
+      "A": "full",
+      "B": "random",
+      "C": "generic"
+    },
+    "scores": {
+      "full": {
+        "personalization": 4,
+        "naturalness": 5,
+        "product_clarity": 4,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni, kullanıcının mutlu duygu durumuna hitap ediyor ve doğal bir dil kullanıyor."
+      },
+      "random": {
+        "personalization": 3,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 1,
+        "reasoning": "Reklam metni, ürünün özelliklerini net bir şekilde açıklıyor, ancak kullanıcı profiline özel bir hitap içermez."
+      },
+      "generic": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 1,
+        "reasoning": "Reklam metni, ürünün temel özelliklerini açıklıyor, ancak kullanıcıya özel bir hitap içermez ve biraz genel bir dil kullanıyor."
+      }
+    }
+  },
+  {
+    "user_id": "u17",
+    "product_id": "p09",
+    "true_dominant": "surprise",
+    "reveal": {
+      "A": "random",
+      "B": "generic",
+      "C": "full"
+    },
+    "scores": {
+      "random": {
+        "personalization": 3,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının şaşkın duygu durumuna tam olarak uyum sağlamamaktadır."
+      },
+      "generic": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni ürünün özelliklerini net bir şekilde açıklamaktadır ancak kullanıcının şaşkın duygu durumuna ve sıkça geçen içerik terimlerine uyum sağlamamaktadır."
+      },
+      "full": {
+        "personalization": 5,
+        "naturalness": 5,
+        "product_clarity": 5,
+        "creep_factor": 1,
+        "reasoning": "Reklam metni kullanıcının şaşkın duygu durumuna ve sıkça geçen içerik terimlerine uyum sağlamakta, aynı zamanda ürünün özelliklerini net bir şekilde açıklamaktadır."
+      }
+    }
+  },
+  {
+    "user_id": "u17",
+    "product_id": "p02",
+    "true_dominant": "surprise",
+    "reveal": {
+      "A": "random",
+      "B": "generic",
+      "C": "full"
+    },
+    "scores": {
+      "random": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni genel olarak ürünün özelliklerini net bir şekilde açıklamaktadır, ancak kullanıcının şaşkın duygu durumuna özel bir şekilde hitap etmemektedir."
+      },
+      "generic": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Bu reklam metni de ürünün özelliklerini iyi bir şekilde açıklamaktadır, ancak kullanıcının şaşkın duygu durumuna özel bir yaklaşım içermez."
+      },
+      "full": {
+        "personalization": 5,
+        "naturalness": 4,
+        "product_clarity": 4,
+        "creep_factor": 1,
+        "reasoning": "Reklam metni kullanıcının şaşkın duygu durumunu doğrudan hedef alır ve Sakinlik+ uygulamasının bu duyguyu yönetmede nasıl yardımcı olabileceğini açıklar."
+      }
+    }
+  },
+  {
+    "user_id": "u21",
+    "product_id": "p01",
+    "true_dominant": "sad",
+    "reveal": {
+      "A": "random",
+      "B": "generic",
+      "C": "full"
+    },
+    "scores": {
+      "random": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Kullanıcının üzgün duygu durumuna hitap etmemesi ve genel bir reklam tonu kullanması"
+      },
+      "generic": {
+        "personalization": 1,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Kullanıcının duygusal durumuna hiç değinmemesi ve sadece ürün özelliklerine odaklanması"
+      },
+      "full": {
+        "personalization": 4,
+        "naturalness": 5,
+        "product_clarity": 5,
+        "creep_factor": 2,
+        "reasoning": "Kullanıcının üzgün duygu durumuna hitap etmesi ve stresini unutturabilecek bir çözüm olarak LezzetKapım'ı önermesi"
+      }
+    }
+  },
+  {
+    "user_id": "u21",
+    "product_id": "p07",
+    "true_dominant": "sad",
+    "reveal": {
+      "A": "random",
+      "B": "full",
+      "C": "generic"
+    },
+    "scores": {
+      "random": {
+        "personalization": 2,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 4,
+        "reasoning": "Reklam metni kullanıcının üzgün duygu durumuna tam olarak odaklanmıyor."
+      },
+      "full": {
+        "personalization": 5,
+        "naturalness": 5,
+        "product_clarity": 5,
+        "creep_factor": 2,
+        "reasoning": "Reklam metni kullanıcının üzgün duygu durumunu anlıyor ve ona umut veriyor."
+      },
+      "generic": {
+        "personalization": 1,
+        "naturalness": 4,
+        "product_clarity": 5,
+        "creep_factor": 5,
+        "reasoning": "Reklam metni kullanıcının duygu durumuna odaklanmıyor ve direkt olarak ürünün özelliklerine odaklanıyor."
+      }
+    }
+  }
+]

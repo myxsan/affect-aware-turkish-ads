@@ -1,0 +1,13 @@
+{
+  "test_acc": 0.9923273657289002,
+  "test_macro_f1": 0.9923728130291058,
+  "best_val_macro_f1": 0.9974193548387097,
+  "best_epoch": 5,
+  "labels": [
+    "angry",
+    "fear",
+    "happy",
+    "surprise",
+    "sad"
+  ]
+}

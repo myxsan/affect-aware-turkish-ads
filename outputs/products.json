@@ -1,0 +1,132 @@
+[
+  {
+    "product_id": "p01",
+    "name": "LezzetKapım",
+    "category": "yemek_teslimat",
+    "category_en": "comfort food delivery",
+    "description": "Restoran kalitesindeki ev yemeklerini 30 dakika içinde kapınıza getiren bir teslimat hizmeti.",
+    "key_features": [
+      "30 dk teslimat",
+      "ev yapımı menü",
+      "her gün değişen seçenekler"
+    ],
+    "price_hint": "öğün başı 120-180 TL"
+  },
+  {
+    "product_id": "p02",
+    "name": "Sakinlik+",
+    "category": "wellness_app",
+    "category_en": "mindfulness app",
+    "description": "Türkçe nefes egzersizleri, kısa meditasyonlar ve günlük duygu takibi sunan bir mobil uygulama.",
+    "key_features": [
+      "5 dk meditasyonlar",
+      "uyku sesleri",
+      "günlük duygu günlüğü"
+    ],
+    "price_hint": "ücretsiz / Premium 49 TL/ay"
+  },
+  {
+    "product_id": "p03",
+    "name": "MaceraBileti",
+    "category": "seyahat",
+    "category_en": "adventure travel package",
+    "description": "Türkiye içi sürpriz hafta sonu kaçamakları planlayan bir seyahat paketi servisi.",
+    "key_features": [
+      "sürpriz destinasyon",
+      "ulaşım+konaklama dahil",
+      "küçük gruplarla"
+    ],
+    "price_hint": "kişi başı 2.500-4.000 TL"
+  },
+  {
+    "product_id": "p04",
+    "name": "BütçeRehberi",
+    "category": "fintech",
+    "category_en": "personal finance app",
+    "description": "Harcamalarınızı otomatik kategorize eden, aylık bütçe hedefleri ve kontrollü tasarruf önerileri sunan bir kişisel finans uygulaması.",
+    "key_features": [
+      "otomatik harcama analizi",
+      "ay sonu bütçe uyarıları",
+      "akıllı tasarruf önerileri"
+    ],
+    "price_hint": "ücretsiz / Pro 39 TL/ay"
+  },
+  {
+    "product_id": "p05",
+    "name": "FormaSet",
+    "category": "fitness",
+    "category_en": "fitness program",
+    "description": "Evde yapılabilen 4 haftalık antrenman programları ve Türkçe video rehberlerinden oluşan dijital bir fitness paketi.",
+    "key_features": [
+      "evde 20 dk antrenman",
+      "yeni başlayan-ileri seviye",
+      "ilerleme takibi"
+    ],
+    "price_hint": "tek seferlik 299 TL"
+  },
+  {
+    "product_id": "p06",
+    "name": "GeceMarşı",
+    "category": "yiyecek_icecek",
+    "category_en": "wellness drink",
+    "description": "Doğal bitki özleriyle hazırlanmış, gece yatmadan önce içilen rahatlatıcı bir bitki çayı serisi.",
+    "key_features": [
+      "uyku öncesi içecek",
+      "papatya & melisa karışımı",
+      "kafeinsiz"
+    ],
+    "price_hint": "20'li paket 89 TL"
+  },
+  {
+    "product_id": "p07",
+    "name": "DiziKulesi",
+    "category": "eglence",
+    "category_en": "streaming service",
+    "description": "Türkçe ve dünya dizilerini reklamsız sunan bir video akış platformu.",
+    "key_features": [
+      "Türkçe yapımlar",
+      "reklamsız izleme",
+      "haftalık yeni bölümler"
+    ],
+    "price_hint": "aylık 79 TL"
+  },
+  {
+    "product_id": "p08",
+    "name": "Yansı",
+    "category": "kozmetik",
+    "category_en": "skincare line",
+    "description": "Hassas ciltler için tasarlanmış nemlendirici, temizleyici ve serumdan oluşan üçlü cilt bakım seti.",
+    "key_features": [
+      "hassas cilt formülü",
+      "doğal içerikler",
+      "dermatolog onaylı"
+    ],
+    "price_hint": "set 349 TL"
+  },
+  {
+    "product_id": "p09",
+    "name": "ÖğrenÇağı",
+    "category": "egitim",
+    "category_en": "online course platform",
+    "description": "Veri bilimi, tasarım ve dil eğitimleri sunan, Türkçe alt yazılı uzaktan eğitim platformu.",
+    "key_features": [
+      "uzman eğitmenler",
+      "sertifikalı kurslar",
+      "kendi temponda öğrenme"
+    ],
+    "price_hint": "kurs başı 199-499 TL"
+  },
+  {
+    "product_id": "p10",
+    "name": "EvGözcü",
+    "category": "akilli_ev",
+    "category_en": "smart home device",
+    "description": "Telefondan canlı izleme, hareket bildirimi ve gece görüşü özellikli bir akıllı ev güvenlik kamerası.",
+    "key_features": [
+      "1080p gece görüşü",
+      "anlık hareket uyarısı",
+      "kolay kurulum"
+    ],
+    "price_hint": "tek kamera 899 TL"
+  }
+]

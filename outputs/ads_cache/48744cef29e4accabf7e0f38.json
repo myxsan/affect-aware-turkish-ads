@@ -1,0 +1,12 @@
+{
+  "ad_text": "Hayatın koşuşturması arasında yeni beceriler kazanmak ister misin? ÖğrenÇağı ile uzman eğitmenlerin liderliğinde veri bilimi, tasarım ve dil kurslarına katıl, kendi temponla öğren ve sertifikalı kurslarla kariyerine yön ver.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 2.996,
+    "key": "48744cef29e4accabf7e0f38"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe Twitter kullanıcısında belirgin bir duygu eğilimi gözlenmemekte; farklı duygular arasında dengeli bir dağılım vardır.\nDuygu dağılımı: %33 öfkeli, %25 mutlu, %17 korkulu, %17 şaşkın, %8 üzgün.\nSıkça geçen içerik terimleri: yerlere, yollar, yağdığında, taraftarı, pizza, oğlumu.\nÖrnek paylaşımları:\n  - \"annesi sarı saçlı mavi gözlü bebekle ilgilenmemi istedi mutluyum an\"\n  - \"sırf inat egonuz yüzünden küfürler\"\n  - \"gel gör kötüyüm bugün sesime ses değse çığlık\"\n\nÜRÜN:\nİsim: ÖğrenÇağı\nAçıklama: Veri bilimi, tasarım ve dil eğitimleri sunan, Türkçe alt yazılı uzaktan eğitim platformu.\nÖne çıkan özellikler: uzman eğitmenler, sertifikalı kurslar, kendi temponda öğrenme\nFiyat: kurs başı 199-499 TL\n\nREKLAM METNİ:"
+}

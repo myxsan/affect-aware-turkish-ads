@@ -1,0 +1,12 @@
+{
+  "ad_text": "Sakinlik+ uygulamasıyla günlük hayatın stresini geride bırakın. 5 dakika süren meditasyonlar, uyku sesleri ve günlük duygu günlüğü ile ruhunuzu dinlendirebilir, daha dengeli bir yaşam sürdürebilirsiniz. Ücretsiz olarak indirip deneyimleyin veya premium sürüme geçerek daha fazla özellik keşfedin.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 2.961,
+    "key": "d8f64d29f0661f545f26333a"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır.\n\nÜRÜN:\nİsim: Sakinlik+\nAçıklama: Türkçe nefes egzersizleri, kısa meditasyonlar ve günlük duygu takibi sunan bir mobil uygulama.\nÖne çıkan özellikler: 5 dk meditasyonlar, uyku sesleri, günlük duygu günlüğü\nFiyat: ücretsiz / Premium 49 TL/ay\n\nREKLAM METNİ:"
+}

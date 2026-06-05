@@ -1,0 +1,12 @@
+{
+  "ad_text": "GeceMarşı ile uykuya dalırken kaygılardan kurtul, papatya ve melisa karışımı olan bu doğal bitki çayı serisi, kafeinsiz ve rahatlatıcı bir uyku için seni bekliyor, 20'li paket sadece 89 TL.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 2.934,
+    "key": "15857fedc5df538dcf22d6bf"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak korkulu bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 korkulu, %17 üzgün, %8 mutlu, %8 şaşkın, %0 öfkeli.\nSıkça geçen içerik terimleri: korkuyorum, mıdır, gram, kısalmış, ezhel, bitirmeye.\nÖrnek paylaşımları:\n  - \"korktum biliyor\"\n  - \"spordan geldiğimde boyum kısalmış mıdır korkuyorum amk\"\n  - \"şaşırdım kaldım bilmem nemsin\"\n\nÜRÜN:\nİsim: GeceMarşı\nAçıklama: Doğal bitki özleriyle hazırlanmış, gece yatmadan önce içilen rahatlatıcı bir bitki çayı serisi.\nÖne çıkan özellikler: uyku öncesi içecek, papatya & melisa karışımı, kafeinsiz\nFiyat: 20'li paket 89 TL\n\nREKLAM METNİ:"
+}

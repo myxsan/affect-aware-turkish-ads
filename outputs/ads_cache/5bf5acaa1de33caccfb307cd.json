@@ -1,0 +1,12 @@
+{
+  "ad_text": "ÖğrenÇağı ile veri bilimi, tasarım ve dil gibi alanlarda uzman eğitmenlerden sertifikalı kurslar alın. Kendi temponuzda öğrenin, kariyerinizi ilerletin, 199-499 TL arasında değişen fiyatlarla erişilebilir bir eğitim deneyimi yaşayın.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 3.053,
+    "key": "5bf5acaa1de33caccfb307cd"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe konuşan bir sosyal medya kullanıcısıdır. Kişisel tercih, duygu durumu veya özel ilgi alanları hakkında ek bilgi bulunmamaktadır.\n\nÜRÜN:\nİsim: ÖğrenÇağı\nAçıklama: Veri bilimi, tasarım ve dil eğitimleri sunan, Türkçe alt yazılı uzaktan eğitim platformu.\nÖne çıkan özellikler: uzman eğitmenler, sertifikalı kurslar, kendi temponda öğrenme\nFiyat: kurs başı 199-499 TL\n\nREKLAM METNİ:"
+}

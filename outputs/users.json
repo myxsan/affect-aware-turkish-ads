@@ -1,0 +1,1377 @@
+[
+  {
+    "user_id": "u00",
+    "type": "balanced",
+    "dominant_emotion": null,
+    "tweets": [
+      {
+        "text": "şeffaf adam gördüm şaşkına döndüm dünyanın şeffaf insanı sanıyordum şok",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "hava soğudu kaloriferleri kapattılar yurt delireceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "beyin hücresini taneyle verdiler lan olmaz lan nefret ediyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "bekliyordum bilmiyorum nesil diyarbakırlı çıktım şaşkınım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "çamlıca televizyon radyo kulesi inşaatında korkunç ölüm metre yükseklikten aşağıya düştü",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "sela sesiyle uyanmak ürkütücü yok",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "acı çeken birisinin intihar rüyada korkunç kabus gören kişinin aniden uyanmasına benzer",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "gideceğim yere yürüyen merdivenle gitmek istiyorum üşengeç öfkeliyim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "şaşırtamaz derken ıspanaklı pidenin mükemmel olmasıyla şaşkına döndüm",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "kaptana kızgınım insan çağırır",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sınav neydi arkadaş soruyor soru nasıldı sınavda soruda varmış şok iptal",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "gördüğüm kadarıyla kışın gelmesini beklemiyordu büyük sürpriz oldu",
+        "true_emotion": "surprise"
+      }
+    ]
+  },
+  {
+    "user_id": "u01",
+    "type": "balanced",
+    "dominant_emotion": null,
+    "tweets": [
+      {
+        "text": "gel gör kötüyüm bugün sesime ses değse çığlık",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "dünya pizza günü’nüz kutlu",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "soyisimlerinizi kullanarak yerlere gelmenize aşırı kızgınım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "balerin olmanın avantajları sanırım kızın ayağı incinmedi hayret ettim",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bursa taraftarı tekbir getiriyor kesecekler besiktaslilari eğlendim",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "sırf inat egonuz yüzünden küfürler",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "eşinin yanında bakıyorsun hadsiz bağırmak istemek",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "site toplantısına oğlumu yolladım sinir küpü olmuş geldi",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kar yağdığında yollar buz tutuyor kaza yapmaktan korkuyorum korku filmi yol",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "öldün kaldın endişelendim kanki",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "annesi sarı saçlı mavi gözlü bebekle ilgilenmemi istedi mutluyum an",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "esas hacamatçıların meslek örgütü olmasına şaşkınım",
+        "true_emotion": "surprise"
+      }
+    ]
+  },
+  {
+    "user_id": "u02",
+    "type": "balanced",
+    "dominant_emotion": null,
+    "tweets": [
+      {
+        "text": "bankanın müşteri temsilcisinin allah belasını versin kudurdum sinirden bak",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "allah’ımm mutluyum gün güzel şükredebilirim",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "içim geçmişti uyuyordum tweet bildirimine irkildim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "bugün twitterla yıldönümümüzmüş unutur sanmıştım sürpriz yaptı şapşal",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "saatte pat kalktım şoka uğradım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sene içerisinde ikinci kitap sene sabırla beklediğim zamanları hatırlayınca gerçekten güzel sürpriz oldu",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "feyza aşktır seviyoruz",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "yeni yeni yeni kutlu",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "forma numarasını görünce istemsizce irkildim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kilo aldığıma sevindim",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "vay taeyang gelin oldun gidiyorsun",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "ayakta gittiğim dolmuşta şoför emniyet kemerini takmamış endişelendim",
+        "true_emotion": "fear"
+      }
+    ]
+  },
+  {
+    "user_id": "u03",
+    "type": "balanced",
+    "dominant_emotion": null,
+    "tweets": [
+      {
+        "text": "ağzımın tadı bozuk aralar ağlayasım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "umarım gözlüğüm gelmiştir özledim",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "türkiye küfürler inliyor an şerefsizler hain sürüsü",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "aslan’ım attın kaçırıyorsun hayret",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "renge dönsem yüzümü hüzün",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "hürrem hain kadın gelmedi kainata bak aklıma geldi sinirlendim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "yok saçma yazılarını bugünkü mağlubiyete bağlıyorum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "ilgilendirmiyor eğlendim başlamadan bitti karşılama haha",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "müzik kutusu fobim korkunç geliyorlar",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "risk almaktan korkmadım sevdiklerimi üzerim ödüm koptu",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "tanrım kafayı yemek üzereyim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kar yağdığında yollar buz tutuyor araba sürmenin buz pateniyle kaymaktan farkı kalmıyor kaza yapacam korkuyorum",
+        "true_emotion": "fear"
+      }
+    ]
+  },
+  {
+    "user_id": "u04",
+    "type": "balanced",
+    "dominant_emotion": null,
+    "tweets": [
+      {
+        "text": "derin stalk yaptım hüzünlüyüm",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "sensizlikten ödüm koptu yapmam uslu dururum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "seninle yaşamak isteyipte yaşayamadığım hayata kızgınım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "dakikadır aralıksız sövüyorum asalaklar vergimizden maaş alıyor",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "dünyanın yalnızlık verici korkutucu hissi sesini duyuramama hissidir",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "ağız şapırdatmak sinir bozucu yoktur",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sefer yarım kalmaktan değilde düştüğüm yerde kalmaktan korkuyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "mutsuzum heidinin pislik claranın evinde hapsolduğu bölümleri izleyip ağlıyorum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "kanada yemendeki kötüye giden durum endişe verici",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kuzenim taylor kısa saçlı doğmuş bence dedi dondum kaldım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "otobüs kartım çekmeye başladı öğrenci değilim resmen kabus",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yorgunum üzerimden fil geçmiş hissediyorum",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u05",
+    "type": "skewed",
+    "dominant_emotion": "angry",
+    "tweets": [
+      {
+        "text": "an öfkeliyim sinirimi yatıştıracak yapmam lazım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "ay yemin ediyorum başıma ağrı girdi sinirden köpürdüm annenin çaresizliğini görünce",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "aklıma geldiğinde küfürler ettiklerim napıyolar yaşıyorlar",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "doğum günün kutlu nice senelere",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "günlük tatilimi ayaşta geçircem eğlenceli",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "internet aldım aksam gitmiş delireceğim saçmalık",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "hoca bitir özeti bitir fazla bekleyemiyorum çıldıracağım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kaderimiz mutsuz olmaktı",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "susarak asil illa küfür edeceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "baş ağrısı ders çalışmama engel yüzden agresifim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "gösteriyor kafayı yiyeceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "gün kötü güne uyanıyoruz ülkede",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u06",
+    "type": "skewed",
+    "dominant_emotion": "angry",
+    "tweets": [
+      {
+        "text": "medenicinin dersindeki ses kaydını dinliyorum adam yavaş konuşuyor vallahi kafayı koyup uyucam kızgınım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "uykumu almadığım kendimi agresif hissediyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sabaha küfür edeceğim okumak istemeyen takipten çıksın",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "hesaplamalarıma düzenli sporu bıraktığımdan mutsuzum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "dakikadır aralıksız sövüyorum asalaklar vergimizden maaş alıyor",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "emeğe saygı göstermek zor olmamalı paylaşmayın izle filmini defol git",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "vizeler bitti bende bittim tükendim yeminle",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "mesaj bekliyorum ay çıldıracağım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "cahil beyinliler bilmişlik yapıyor sinir oluyorum abi",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "günaydın sevmesini bilen guzel insanlar",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "sinir küpüyüm bulaşanın canını fena yakarım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kredi kartının kullanma tarihini sorduğumda kullandım diyen annemi üzdüğüm günler pişmanım",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u07",
+    "type": "skewed",
+    "dominant_emotion": "angry",
+    "tweets": [
+      {
+        "text": "hayatımdan defol git gayri haykırmak istiyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "aaa yediği gol iptal edilmiş şaşırdım aaa inanamıyorum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "leonspiro sahnesinin etkisinden çıkamıyorum içimi hüzün kapladı abv sahne hüzünlü değildi oldu",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "batuhanla spor yapıcaz korkuyorum tayt giydi",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "uykumu getirsin küfür edeceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "yahu rakamındaki sır kafayı yiyeceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "güldüm yüzüm kasıldı",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "sinirlenince cümle kuramamaktan nefret ediyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sinirleniyorum lanet üniversitede karar mantıklı",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "ellerim soyuluyor dedi deri değiştiriyorsun normaldir sizde dedim sanırım nefret ediyor",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kızgınım kişilere an sıfırlar",
+        "true_emotion": "angry"
+      }
+    ]
+  },
+  {
+    "user_id": "u08",
+    "type": "skewed",
+    "dominant_emotion": "angry",
+    "tweets": [
+      {
+        "text": "muslera formuyla oldukça kızgınım kötü senedir kötü",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "gözümü kapıyorum an geliyor allahım korkunçtu",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "merhaba yazınca hesabının kilitlenmesi olayını dmden birilerini düşürmek uyduruyorsunuz sanıyordum gerçekmiş şoktayım an",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "dünya üzerinde nefes sinir oluyorum an hayvanlar hariç",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "ayşe banu doğumluydu kız delireceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "nefes alamıyorsam bunaldım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "kafayı yastığa koyduğu uyuyan tiplerden nefret ediyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "çıldıracağım kafayı yiyeceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "şakadır kesin yok inanmam ayrıldınız yaa",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "geri geldim olmadığım agresifim yenilendim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kedim kızgınlığa girdi ulusa seslenir miyavlıyo yeter delireceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "kasıtlı özürle düzeltilemez defol ülkemden",
+        "true_emotion": "angry"
+      }
+    ]
+  },
+  {
+    "user_id": "u09",
+    "type": "skewed",
+    "dominant_emotion": "fear",
+    "tweets": [
+      {
+        "text": "şaşırdım kaldım bilmem nemsin",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "alttan derslerimi sabahın körüne koyan sisteme kırgınım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "okulu bitirmeye gram umudum kalmadı",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "arkadaşlar bugün mutluyum sizlerle paylaşmak istedim mutluluk paylaştıkça çoğalır sizde paylaşın çoğalsın",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "konağa gitsin bence olacak korkuyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yanlışlıkla ezhel şarkısı ezberliyiyeceğim korkuyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "gördüğüm kabus yüzünden gece uyumadım",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "finali okuyunca bi irkildim kaldı",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kerkükte büyük facia ölü yaralı",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "spordan geldiğimde boyum kısalmış mıdır korkuyorum amk",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "marcele stajyer muamelesi yapılacağından endişeliyim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "korktum biliyor",
+        "true_emotion": "fear"
+      }
+    ]
+  },
+  {
+    "user_id": "u10",
+    "type": "skewed",
+    "dominant_emotion": "fear",
+    "tweets": [
+      {
+        "text": "kanadada helikopter düştü ölü",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "uzun süren aralar endişe verici",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "nehir okyanus yüzeyi bulanık derinlerinde ürkütücü duruluk mevcut",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "korkutucu geliyor alışamadım fikre alışmak istiyor muyum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "ara ara kendime harbi sarı saçlıyım ha hayret ediyorum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "candy crush oynarken zamanı ileri aldığımda aramış ödüm koptu",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "garip canım yanıyor moralim bozuk",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "evlatlarım güncelleme yapıyor bugün kral şaştım kaldım vallahi",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "kabus branşlarda yenilmişiz",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "korkutan insan yapmışlar allah canımı almasın ödüm koptu",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "agresifim kesin birini tekmeleyeceğim bugün",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "parazitlerden korktum inş kabus görmem amin",
+        "true_emotion": "fear"
+      }
+    ]
+  },
+  {
+    "user_id": "u11",
+    "type": "skewed",
+    "dominant_emotion": "fear",
+    "tweets": [
+      {
+        "text": "gece robot olduğuma dair bi kabus gördüm korktum annemin yanına gittim onla uyudum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kuraklıktan balıkesir’de badem fidanları çiçek açtı çiftçi endişeli",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "uzaklardan feryat ediyorum çamurlandım kirlendim yıprandım manasız herşey herşey anlamsız",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "yht business bilet alarak kendime ufak bi sürpriz yaptım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "endişe yüklü hayatlarımız",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "tarz sessiz sakin havalardan nedense korkuyorum fırtına öncesi sessizlik",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "teşekkür ediyorum güzel sürpriz oldu iyiki varsınız",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "balkona maket hırsız yapmışlar adam asmış sandım ödüm koptu yaptınız",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "tek zeki insanlardan korkuyorum vallahi",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "fotoğraf atmış soğursun yazmış gerizekalı insanın tipi yüzünden hareketler yüzünden soğurum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "bozulduğu insandan korkunç yaratık yoktur",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yağmur yağıyor vallahi acayip gök gürlüyor korkuyorum",
+        "true_emotion": "fear"
+      }
+    ]
+  },
+  {
+    "user_id": "u12",
+    "type": "skewed",
+    "dominant_emotion": "fear",
+    "tweets": [
+      {
+        "text": "korkuyorum cesaretim kayıp",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "zeytin zeytinli poğaça tükettim şaşkınım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bulaşık yıkadım korkunçtu an ölücem sandım",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "hayaletiz hayalet hayal et düşün kork",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "irkilmeyene izleme kararı almıştım ses açıkken defasında irkildim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kendimi bulmaktan korkuyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "gerizekalı insan sitede kötü atlara binip defolup gitse keşke",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "instagramdan okullar açılıyor birşeyler paylaşan kişileri unfladım mutluyum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "sesti ödüm koptu allahtan kimseye bişey olmamış",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "gemileri yakmaya meyilliyim vapura binmeye korktum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "kabustu insaf",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "fena hüzünlüyüm dışarıdayım kulaklığım yok hayattaki görevim bitmiştir",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u13",
+    "type": "skewed",
+    "dominant_emotion": "happy",
+    "tweets": [
+      {
+        "text": "özledim bilse ah bilseniz",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "neşe doluyor insan kutlu mutlu arkadaşlar",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "galiba koskoca tatilde eğlendim",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "süre ayağımdan çıkmıyacak ayakkabı aldım baya mutluyum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "destekleyen teşekkür ederim sıcaklıklarını hissediyorum güzel yüreğe girmiş isem kaybetmiş sayılmam",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "stephan hawking gündür negatif basmamış noldu endişelendim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "film eğlenceli dediler kere güldüm",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "tarihi görünce şaşırdım drone boyutunu işlediğiniz akışınız",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "hayatın güzel sürpriz oldun",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sev sevmek kolay",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "osmanlının puanını yediler kayseriye çalınan penaltı komik bence",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "arkadaşlar harika hissediyorum buraya yazayım nazar değsin bünye alışık",
+        "true_emotion": "happy"
+      }
+    ]
+  },
+  {
+    "user_id": "u14",
+    "type": "skewed",
+    "dominant_emotion": "happy",
+    "tweets": [
+      {
+        "text": "beklenen anlardan nefret ediyorum doğaçlama takılsanıza",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sonunda güzdüzsefası kitabını bitirdim inanılmaz güzeldi mükemmeldi",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "kendimi harika hissediyorum yeniden hayat doldum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "rica ederim tatlım öğle tatili teşekkür ederim eşlik ettiğin seviyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "banyo etmek dünyanın güzel dünya varmış",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "sevgili kemal abim ellerinize sağlık teşekkür ederiz",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "rezil rüya gördüm bugün ürktüm",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "dalgın dalgın yürürken ani fren sesine irkildim şöfor hemen inip hatalı söyledi özür diledi utandım",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "ürün aldım gratisten güzel hissediyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "bugün doğan doğum günü kutlu",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "dünyaya gözlerimi açtığım gün bugün kendimi harika hissediyorum günaydınlar",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "maçın özeti korkak hoca maçı verdi defol git rıza",
+        "true_emotion": "angry"
+      }
+    ]
+  },
+  {
+    "user_id": "u15",
+    "type": "skewed",
+    "dominant_emotion": "happy",
+    "tweets": [
+      {
+        "text": "ilgilendirmiyor eğlendim başlamadan bitti karşılama haha",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "inançlı olsaydım çilekten aldığım haz günaha girerdi derece haha",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "galerimi temizlemem yarım saatimi aldı mutluyum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "fineas förb izliyordum kliplerinin top listesini verdiler eğlendim mutluyum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "yok inanmam büyük konuşmayayım çocuğuma vursa yakalar parmaklarını satırla keserdim",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "hayret ediyorum anadolu cennet diyorum inanmıyorsun",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sevimli doğum günü mesajı teşekkürler",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "kubilay tüfekçi podyum sürpriz oldu",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sınav yaklaşıyor ders çalışmam lazım korkuyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yarın stajım yok mutluyum mutlulukla anaokuluna gitmesem düşünüyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "uludağ’a aşık oldum bence boş",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "yılların güzel günüydü günümü güzelleştiren haftaya efsane video",
+        "true_emotion": "happy"
+      }
+    ]
+  },
+  {
+    "user_id": "u16",
+    "type": "skewed",
+    "dominant_emotion": "happy",
+    "tweets": [
+      {
+        "text": "aybüke pusat güzel dans etti vallahi gösterisini beğendim",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "insanlar rahat yalan söyleyebiliyor anlayamıyoruz korkunç",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yok gayet hoş tepki seviyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "indirimlerini bekleyen canım kankalarım yaşasın indirim yaşasın",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "komedi dükkanı arkadaşım hoşgeldin müdür neaptın senedir izliyorum tatlı büyülü adam",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "mutlu uyandım",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "ellerim soyuluyor dedi deri değiştiriyorsun normaldir sizde dedim sanırım nefret ediyor",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "sırf orkan çınar maçı izliyorum seviyorum çocuk",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "of ağzımdaki uyuşukluk geçmedi delireceğim",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "trabzonspor osmalıspor maçında gol oldu be yalnız yusuf yazıcının golü güzeldi",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "of kütahyada bunaldım ankaraya gideyim deniz havası alayım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "mutluyum yarın uyanıcam dünya iptal",
+        "true_emotion": "happy"
+      }
+    ]
+  },
+  {
+    "user_id": "u17",
+    "type": "skewed",
+    "dominant_emotion": "surprise",
+    "tweets": [
+      {
+        "text": "şaşırmıyorum hayret ediyorum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bugün yürürken inek boku gördüm kadarda bts antisine benziyor şaştım kaldım yahu",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "kız merve dondum kaldım yazayım bilemedim tehlikelisin",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sığırdan başkan gelmesi şaşırtıcı umarım başarılı",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "aaa şaştım kaldım olacak iş",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "şakadır kesin yok inanmam ayrıldınız destekledim olmaz",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "merve yüzünden evli birinin başkasıyla sevgili olmasını istedim tövbe kendime şaşırdım an",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "inanamıyorum coğrafyadan konu bitirirken sorularını çözebiliyorum arkadaşlar hayret edici olay",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bölümü şurdan kesseydi kanal keşke vallahi sinir oluyorum daralıyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "fenerbahçe forması giyer sorusuna şeref duyarım diyen taçsız kral doğum günün kutlu",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "lisenin bitmesinin verdiği hüzün",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "pasif agresiflikten nefret ederken pasif agresif oldum hayatım baya planladığım gidiyor",
+        "true_emotion": "angry"
+      }
+    ]
+  },
+  {
+    "user_id": "u18",
+    "type": "skewed",
+    "dominant_emotion": "surprise",
+    "tweets": [
+      {
+        "text": "şaka yapıyorsun ciddi olamazsın sayın gevşek",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "unuttum hayret ettim",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "insanın yokluğunuzda mutlu olacağını bilmek mutsuz edici durum yok",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "vallahi bende sabrlı olduğumu bilmiyordum sürpriz oldu bugün anladım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "aaa sevgilim gelmiş konuş sevgilim",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "an şaşkınım şaşkınlığımı kıvırcık ali’nin kel öğrendiğimde yaşamıştım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "misafir gelmesinden nefret ediyorum amk",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "yaş düzeyi zırvalamayı neyle izah edeceğimi şaştım savcım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "ürün aldım gratisten güzel hissediyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "saatte pat kalktım şoka uğradım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "yeni kitaplar aldım inanılmaz mutluyum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "rahatsız ediyormuşum numarayı değiştirmek inanamıyorum",
+        "true_emotion": "surprise"
+      }
+    ]
+  },
+  {
+    "user_id": "u19",
+    "type": "skewed",
+    "dominant_emotion": "surprise",
+    "tweets": [
+      {
+        "text": "fark ettim bugün fotoğrafımı atmamışım hayret",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "keşke insanlara kendime güvenseydim azından yarı yolda kalmazdım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "hayret ettim mesaj atmana oldu allah allah",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "sürpriz arkadaşlar sağ",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "tl yiyin devletin malı yiyin yemeyen keriz anlayamıyorum insanlar sinirden öldürücek",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "aaa şaşırdım aklından sildin zannediyordum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "şaka di inanamıyorum",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "yemeğini yemeyip filtre kahve içmiştim rengim atmış kendimi görünce irkildim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "bade işçili yeni dizisinde görünce şoka uğradım beğendiğim kadındı yapmış",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "robinho sivas’ta yok",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "yaptım yok inanmam hazır almışsındır",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "alışverişe çıktım mutluyum tek mutluluk kaynağım",
+        "true_emotion": "happy"
+      }
+    ]
+  },
+  {
+    "user_id": "u20",
+    "type": "skewed",
+    "dominant_emotion": "surprise",
+    "tweets": [
+      {
+        "text": "arkadaşıma namaza gittiğine inanmıyorum resim at dedim attı an konuşuyoruz namazdayken yazıyor şok",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "millet mutluyum alevimin doğum günüsü",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "genelde doğru seçimler yapamayan birisiyim hayatımın doğru kararıymış duruşunu seviyorum",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "gitsem gidememkalsam kalamam şaştım işe diyen çelik çaresizliği üzerimde",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "geri ver defolup git gidiyorsan git",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "şaşırtıcı gerçek dedikodu toplumsal açıdan faydalı olabilir",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bi dolmuş şoförü yayaya yol verdi hayret ettim hayır normalde cm bulsalar burunlarını sokuyorlar",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bursadan hayret edici sonuç hayırdır beyler",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "gerçekten beklemiyordum beklemiyorduk şahane sürpriz oldu verilen değerin değerini bilip değer vermek güzel meziyet",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "konuşmaları dinleyebiliyor olmana hayret ettim",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "ah vizeler kara vizeler kabus çöken vizeler",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "cümledeki heceler yemen büyük sürpriz oldu",
+        "true_emotion": "surprise"
+      }
+    ]
+  },
+  {
+    "user_id": "u21",
+    "type": "skewed",
+    "dominant_emotion": "sad",
+    "tweets": [
+      {
+        "text": "babamla alışverişe çıkmak çılgınlık yaptım pişmanım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "anlık triple sohbet grubundan çıktım pişmanım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "kirpiklerim birbirine yapıştı kirpikle dolaşıyorum mutsuzum an",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "annelerin yemek yeme düzensizliğine bağlamalarına sinir oluyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "gratise girdim baba pişmanım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "gördüğüm oğlusun diyerek sorguya çekiyorlar bunaldım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "şanssızım mutsuzum sagopa kajmerle kolera ayrıldı senle ayrıldık kıyamet tahmini kopar",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "hayatım korku filmi an sırtımdan bıçaklayacak bekliyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "millet ders çalışıyor şuan kötü oldum bende çalışmaya gidiyorum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "hayal kırıklığı yaşamaktan yıprandım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "gerizekalı twitter kasıyorsun",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "güzel yorumlarınız teşekkür ederiz",
+        "true_emotion": "happy"
+      }
+    ]
+  },
+  {
+    "user_id": "u22",
+    "type": "skewed",
+    "dominant_emotion": "sad",
+    "tweets": [
+      {
+        "text": "bıktım bıktım insanların aptal koymasından bıktım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "dizimin sezon finalini izleyeceğim mutsuzum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "maliyet muhasebesi sorunun cevabını bulamıyorum çıldıracağım",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "ciddi olamazsın gün fazla şaşırtıyorsun",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "kadir akaras beyin babası vefat etmiş allah sabırlar versin kadir beye başsağlığı diliyorum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "yetkililerden acil kezbansız hava sahası talep ediyorum bıktım help me please",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "kabus grip halı kitap okuyamıyorum",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "yıldım yoruldum tükendim bunaldım bıktım bezdim sıkıldım tahammülsüzleştim sebebi vizeler",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "sinirliyim sebebini bilmiyorum",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "selam arkadaşlar uykudan uyandım başım acıyor mutsuzum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "saatlik yoldan turşu getir bozuk çıksın moralim bozuldu",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "başarısız kulüpte olmaktan mutsuzum",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u23",
+    "type": "skewed",
+    "dominant_emotion": "sad",
+    "tweets": [
+      {
+        "text": "odamda örümcek fazla üzgünüm yerim kaşınmaya başladı kocaman",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "haftaya sınavlarım başlıyor tükendim",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "ölmekten korkmuyorum sevilmeden ölmek ürkütücü",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "escobarı süpermen övüyorsunuz şok",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "zamandır stalklıyorum yoksun öldün kaldın endişelendim",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "trabzondayken evde olduğum saat hüzünlüyüm",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "gün gerizekalı edebiyat ödevi uğraştığıma inanamıyorum nefret ediyorum dersten nefret",
+        "true_emotion": "angry"
+      },
+      {
+        "text": "diyemediklerim üzgünüm",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "mutsuzum tırnaklarıma mutsuzum saç tellerime mutsuz",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "of dertlendim durduk yere resmen boş vakitlerimde hobi kendime dert ediniyorum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "uzaklardan feryat ediyorum çamurlandım kirlendim yıprandım manasız herşey herşey anlamsız",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "okulda kaybetmekten sıkıldım okul okul kara delik",
+        "true_emotion": "sad"
+      }
+    ]
+  },
+  {
+    "user_id": "u24",
+    "type": "skewed",
+    "dominant_emotion": "sad",
+    "tweets": [
+      {
+        "text": "kabusla uyandım aq saatte kabus",
+        "true_emotion": "fear"
+      },
+      {
+        "text": "ts editörü uğraşmış dilde teşekkür edeceğimi şaşırdım",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "bölüm olmuş pişmanım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "ufak abartı yok diyeceğimde günleri insanları anları özlemekten soldum tükendim halim kalmadı",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "söylediğim hiçbirşey pişman değilim insan koyduğum pişmanım",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "erken uyandığım zamanlar mutsuz ağlama hisli oluyorum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "lisenin bitmesinin verdiği hüzün",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "olacağı varsa biteceği varsa bitsin yoruldum",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "oha demekten tepki veremiyorum bitince hasiktir dedim galiba",
+        "true_emotion": "surprise"
+      },
+      {
+        "text": "ülke komik alıyor",
+        "true_emotion": "happy"
+      },
+      {
+        "text": "diyemediklerim üzgünüm",
+        "true_emotion": "sad"
+      },
+      {
+        "text": "gayret et inan yoruldum",
+        "true_emotion": "sad"
+      }
+    ]
+  }
+]

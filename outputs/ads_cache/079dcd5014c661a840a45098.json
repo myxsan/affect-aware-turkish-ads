@@ -1,0 +1,12 @@
+{
+  "ad_text": "LezzetKapım'ın sıcak ve lezzetli ev yemekleri, günün stresini ve üzüntüyü unutturacak bir mola olabilir. 30 dakika içinde kapınıza gelen restoran kalitesindeki yemekler, her gün değişen menü seçenekleriyle keyfinizi artırır. Biraz rahatlamak ve kendinize iyi davranmak istiyorsanız, LezzetKapım'ın ev yapımı lezzetlerini deneyin.",
+  "meta": {
+    "backend": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "cache_hit": false,
+    "latency_seconds": 3.504,
+    "key": "079dcd5014c661a840a45098"
+  },
+  "system": "Sen kısa ve etkili Türkçe reklam metinleri yazan bir kreatif yazarsın. Kuralların:\n1. Reklam 40-70 kelime arasında ve TEK paragraf olmalı.\n2. Kullanıcının ruh halini ya da kişiliğini AÇIKÇA söyleme — buna göre uygun bir TON seç ama 'sen şu duygudasın' gibi ifadeler kullanma.\n3. Türkçe akıcı ve doğal olsun, çeviri kokmasın.\n4. Ürünün adını ve en az bir özelliğini metne yedir.\n5. Sonuç sadece reklam metnidir; başlık, açıklama veya emoji ekleme.",
+  "user": "Aşağıdaki kullanıcı profili ve ürüne uygun bir reklam metni yaz.\n\nKULLANICI PROFİLİ:\nBu Türkçe Twitter kullanıcısı son paylaşımlarında ağırlıklı olarak üzgün bir duygu durumu sergilemektedir.\nDuygu dağılımı: %67 üzgün, %17 öfkeli, %8 korkulu, %8 mutlu, %0 şaşkın.\nSıkça geçen içerik terimleri: pişmanım, mutsuzum, sagopa, çalışmaya, kolera, kirpiklerim.\nÖrnek paylaşımları:\n  - \"şanssızım mutsuzum sagopa kajmerle kolera ayrıldı senle ayrıldık kıyamet tahmini kopar\"\n  - \"babamla alışverişe çıkmak çılgınlık yaptım pişmanım\"\n  - \"hayatım korku filmi an sırtımdan bıçaklayacak bekliyorum\"\n\nÜRÜN:\nİsim: LezzetKapım\nAçıklama: Restoran kalitesindeki ev yemeklerini 30 dakika içinde kapınıza getiren bir teslimat hizmeti.\nÖne çıkan özellikler: 30 dk teslimat, ev yapımı menü, her gün değişen seçenekler\nFiyat: öğün başı 120-180 TL\n\nREKLAM METNİ:"
+}
