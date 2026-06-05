@@ -1,7 +1,9 @@
 # Affect-Aware Personalized Advertisement Generation from Turkish Tweets
 
 **Author:** Musa Yüksel — 21050911018
+
 **Course:** Neural Networks — Final Project
+
 **Department:** Software Engineering · Ankara Yıldırım Beyazıt University
 
 End-to-end Turkish ad-personalization pipeline with a falsifiable 3-arm
@@ -184,11 +186,3 @@ reproducible.
 | §4 (rec) | Robustness | report §4.1 (character-level noise injection) |
 | §4 (rec) | Prompt vs fine-tuned comparison | implicit (BERTurk fine-tuned + Llama prompted) |
 | §5 (agentic clause) | Experimental comparison vs non-agentic baseline | persona ablation (§4.2–§4.3): full vs random vs generic |
-
----
-
-## Quick links
-
-- **Final report:** [`SENG428_PROJECT_REPORT_revised.docx`](SENG428_PROJECT_REPORT_revised.docx)
-- **Notebook:** [`colab_notebook.ipynb`](colab_notebook.ipynb)
-- **Demo app:** [`demo/`](demo/)
